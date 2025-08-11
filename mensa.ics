@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250811
 DTEND;VALUE=DATE:20250812
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Kartoffelsuppe\nTagesangebot 1: Grünkernpfanne mit Blu
  menkohl-Bohnengemüse - und Möhren-Chili-Dip\nTagesangebot 3: Fleischküc
  hle - mit Baked Beans und gebackenen Kartoffelscheiben\nTagesangebot 4: Ü
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250812
 DTEND;VALUE=DATE:20250813
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Pilzcremesuppe\nTagesangebot 1: Pasta mit Sojabolognese
  \nTagesangebot 3: Currywurst - mit Currysauce und Pommes frites\nTagesange
  bot 4: Korma Chicken - und Duftreis\nTagesangebot 5: Antipasti\nGemüsebei
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\nTagesangebot 1: Rotes-Linsen-Kart
  offel-Curry mit Rosinen\nTagesangebot 2: Kartoffel-Zucchini-Gratin\nTagesa
  ngebot 3: Begrenztes Angebot:Teigtaschen mit Kartoffel-Quarkfüllung - und
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250814
 DTEND;VALUE=DATE:20250815
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Indische Curry suppe\nTagesangebot 1: Vollkorn Penne mi
  t mediterranem Gemüse\nTagesangebot 2: Schupfnudelnpfanne mit Zucchini\, 
  Paprika und Chilidip\nTagesangebot 4: Allgäuer Käsespätzle - mit Zwiebe
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250816
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Tomatensuppe\nTagesangebot 1: Gemüse-Knusperfrikadelle
   - mit veganer Kräutercremesauce und Reis\nTagesangebot 3: Fajitas mit Ge
  müse\, Sojastreifen und Dip - mit veganem Sour-Cream Dip\nTagesangebot 4:
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250819
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\nTagesangebot 1: Penne mit Champignons
   und Cocktailtomaten\nTagesangebot 3: Köttbullar - mit Rahmsauce \,Preise
  lbeeren und Salzkartoffeln\nTagesangebot 4: Lasagne - mit Tomatensauce\nGe
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250820
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Tomatensuppe\nTagesangebot 1: Vegane Paella\nTagesangeb
  ot 3: Seelachsfilet auf mediterranem Zartweizen mit Zucchini\, Oliven und 
  getrockneten Tomaten\nTagesangebot 4: Sojageschnetzeltes Szechuan - mit Mi
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250820
 DTEND;VALUE=DATE:20250821
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Linsensuppe\nTagesangebot 1: Karotten-Gnocchi-Ragout\nT
  agesangebot 3: Spaghetti Bolognese mit Reibekäse\nTagesangebot 4: Enchila
  das Mexico mit Grillgemüse - und Country Potatoes\nGemüsebeilage: Buntes
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Karottencremesuppe\nTagesangebot 1: Schupfnudel-Sauerkr
  aut-Pfanne\nTagesangebot 3: Schweinebraten - mit Rahmsauce und Spätzle\nT
  agesangebot 4: Hähnchen-Nuggets - mit Curry Dip und Pommes frites\nTagesa
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Kartoffelsuppe\nTagesangebot 1: Reispfanne mit Naturrei
  s und Weißkraut-\,Paprikagemüse\nTagesangebot 3: Rote Wurst - mit Puszta
  sauce und Country Potatoes\nTagesangebot 4: Paniertes Seelachsfilet - mit 
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Mensa Stuttgart-Vaihingen
 DTSTART;VALUE=DATE:20250825
 DTEND;VALUE=DATE:20250826
-DTSTAMP:20250811T132058Z
+DTSTAMP:20250811T133437Z
 DESCRIPTION:Suppe: Tagessuppe\nTagesangebot 1: Tomaten-Hirse mit Haselnüs
  sen\nTagesangebot 2: Allgäuer Käsespätzle - mit Zwiebelschmelze\nTagesa
  ngebot 4: Frittierte Tintenfischringe mit Zitrone\, - Knoblauch-Dip und Po
