@@ -31,8 +31,8 @@ def get_event_title_from_meals(meals):
             # Extract first 1-2 words from the dish name
             words = cleaned_meal.split()
             if len(words) >= 2:
-                # Take first two words for compound names like "Rotes-Linsen-Kartoffel-Curry"
-                if '-' in words[0] or len(words[0]) < 6:
+                # if less then 8 characters take first two words
+                if len(words[0]) <= 8:
                     main_dishes.append(f"{words[0]} {words[1]}")
                 else:
                     main_dishes.append(words[0])
@@ -40,7 +40,7 @@ def get_event_title_from_meals(meals):
                 main_dishes.append(words[0])
     
     if main_dishes:
-        return ", ".join(main_dishes[:4])  # Limit to first 4 dishes
+        return ", ".join(main_dishes[:5])  # Limit to first 5 dishes
     return "Mensa Menu"
 
 # Fetch JSON Data
