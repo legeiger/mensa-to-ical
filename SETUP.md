@@ -100,6 +100,19 @@ Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual values.
 
 ## Troubleshooting
 
+### GitHub Action Permission Denied (403 Error)
+If you see an error like `Permission to username/repo.git denied to github-actions[bot]`:
+
+1. Go to your repository on GitHub
+2. Click on "Settings" tab
+3. Scroll down to "Actions" in the left sidebar
+4. Click on "General"
+5. Under "Workflow permissions", select "Read and write permissions"
+6. Check "Allow GitHub Actions to create and approve pull requests"
+7. Click "Save"
+
+Alternatively, you can check if the workflow has the correct permissions in the YAML file (which should already be set).
+
 ### GitHub Action Not Running
 - Check that your repository is public
 - Verify the workflow file is in `.github/workflows/update-calendar.yml`
