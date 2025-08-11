@@ -101,6 +101,7 @@ for date_str, meals in dates.items():
         description_parts.append(line)
     
     description = "\n".join(description_parts)
+    description += "\n\nUpdated: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     e.add('description', description)
     e.add('dtstart', dt)
     e.add('dtend', dt + timedelta(days=1))
