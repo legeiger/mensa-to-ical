@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 from icalendar import Calendar, Event
 import sys
 import re
+from zoneinfo import ZoneInfo
 
 # Dictionary to replace category names with shorter versions
 CATEGORY_REPLACEMENTS = {
@@ -101,7 +102,9 @@ for date_str, meals in dates.items():
         description_parts.append(line)
     
     description = "\n".join(description_parts)
-    description += "\n\nUpdated: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    berlin_time = datetime.now(ZoneInfo("Europe/Berlin"))
+    description += "\nUpdated: " + berlin_time.strftime("%Y-%m-%d %H:%M:%S %Z")
+    
     e.add('description', description)
     e.add('dtstart', dt)
     e.add('dtend', dt + timedelta(days=1))
