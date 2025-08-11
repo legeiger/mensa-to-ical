@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mensa Stuttgart Vaihingen//lgeiger.de//
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250812
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Kartoffelsuppe\nTagesangebot 1: Grünkernpfanne mit Blu
+ menkohl-Bohnengemüse - und Möhren-Chili-Dip\nTagesangebot 3: Fleischküc
+ hle - mit Baked Beans und gebackenen Kartoffelscheiben\nTagesangebot 4: Ü
+ berbackenes Hähnchenbrustfilet - an Tomatensugo mit Kräutern und Penne\n
+ Gemüsebeilage: Ratatouille-Gemüse\nStärkebeilage 1: Penne\nStärkebeila
+ ge 2: Gebackene Kartoffelscheiben\nDessert 1: Aprikosenjoghurt\nDessert 2:
+  Bayerische Creme mit Beeren
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250813
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Pilzcremesuppe\nTagesangebot 1: Pasta mit Sojabolognese
+ \nTagesangebot 3: Currywurst - mit Currysauce und Pommes frites\nTagesange
+ bot 4: Korma Chicken - und Duftreis\nTagesangebot 5: Antipasti\nGemüsebei
+ lage: Rahmblumenkohl\nStärkebeilage 1: Pommes frites\nStärkebeilage 2: D
+ uftreis\nDessert 1: Sahneschokopudding\nDessert 2: Veganer Heidelbeerquark
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250814
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Blumenkohlcremesuppe\nTagesangebot 1: Rotes-Linsen-Kart
+ offel-Curry mit Rosinen\nTagesangebot 2: Kartoffel-Zucchini-Gratin\nTagesa
+ ngebot 3: Begrenztes Angebot:Teigtaschen mit Kartoffel-Quarkfüllung - und
+  Salatgarnitur \,Sour-Cream Dip\nTagesangebot 4: Cordon bleu vom Schwein -
+  mit Bratensauce und Pommes frites\nGemüsebeilage: Erbsen\nStärkebeilage
+  1: Pommes frites\nStärkebeilage 2: Salzkartoffeln\nDessert 1: Käsesahne
+  Creme\nDessert 2: Vegane Himbeercreme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Indische Curry suppe\nTagesangebot 1: Vollkorn Penne mi
+ t mediterranem Gemüse\nTagesangebot 2: Schupfnudelnpfanne mit Zucchini\, 
+ Paprika und Chilidip\nTagesangebot 4: Allgäuer Käsespätzle - mit Zwiebe
+ lschmelze\nTagesangebot 5: Antipasti\nGemüsebeilage: Kaisergemüse\nStär
+ kebeilage 1: Reis\nStärkebeilage 2: Pommes frites\nDessert 1: Rote Grütz
+ e - mit Dessertsauce Vanille\nDessert 2: Kokosmilchreis mit Mango
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Tomatensuppe\nTagesangebot 1: Gemüse-Knusperfrikadelle
+  - mit veganer Kräutercremesauce und Reis\nTagesangebot 3: Fajitas mit Ge
+ müse\, Sojastreifen und Dip - mit veganem Sour-Cream Dip\nTagesangebot 4:
+  Backfisch - mit Remouladensauce und Kartoffel-Gurkensalat\nGemüsebeilage
+ : Buntes Gemüse\nStärkebeilage 1: Pommes frites\nStärkebeilage 2: Karto
+ ffel-Gurkensalat\nDessert 1: Nuss-Nougat-Pudding\nDessert 2: Exotische Bay
+ erische Creme
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Gemüserahmsuppe\nTagesangebot 1: Penne mit Champignons
+  und Cocktailtomaten\nTagesangebot 3: Köttbullar - mit Rahmsauce \,Preise
+ lbeeren und Salzkartoffeln\nTagesangebot 4: Lasagne - mit Tomatensauce\nGe
+ müsebeilage: Broccoli\nStärkebeilage 1: Pommes frites\nStärkebeilage 2:
+  Petersilienkartoffeln\nDessert 1: Pudding mit Vanille-Geschmack\nDessert 
+ 2: Kirschjoghurt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Tomatensuppe\nTagesangebot 1: Vegane Paella\nTagesangeb
+ ot 3: Seelachsfilet auf mediterranem Zartweizen mit Zucchini\, Oliven und 
+ getrockneten Tomaten\nTagesangebot 4: Sojageschnetzeltes Szechuan - mit Mi
+ enudeln\nTagesangebot 5: Antipasti\nGemüsebeilage: Rahmblumenkohl\nStärk
+ ebeilage 1: Pommes frites\nStärkebeilage 2: Mienudeln\nStärkebeilage 3: 
+ Gemüsezartweizen\nDessert 1: Veganer Himbeerquark\nDessert 2: Mousse mit 
+ Limone-Joghurt-Geschmack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Linsensuppe\nTagesangebot 1: Karotten-Gnocchi-Ragout\nT
+ agesangebot 3: Spaghetti Bolognese mit Reibekäse\nTagesangebot 4: Enchila
+ das Mexico mit Grillgemüse - und Country Potatoes\nGemüsebeilage: Buntes
+  Gemüse\nStärkebeilage 1: Schwenkkartoffeln\nStärkebeilage 2: Country P
+ otatoes\nDessert 1: Veganes Haferdessert Saltet Caramel\nDessert 2: Waldbe
+ erenquark
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Karottencremesuppe\nTagesangebot 1: Schupfnudel-Sauerkr
+ aut-Pfanne\nTagesangebot 3: Schweinebraten - mit Rahmsauce und Spätzle\nT
+ agesangebot 4: Hähnchen-Nuggets - mit Curry Dip und Pommes frites\nTagesa
+ ngebot 5: Antipasti\nGemüsebeilage: Grüne Bohnen\nStärkebeilage 1: Pomm
+ es frites\nStärkebeilage 2: Spätzle\nDessert 1: Früchtemüsli\nDessert 
+ 2: Veganer Grießpudding mit Pfirsich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Kartoffelsuppe\nTagesangebot 1: Reispfanne mit Naturrei
+ s und Weißkraut-\,Paprikagemüse\nTagesangebot 3: Rote Wurst - mit Puszta
+ sauce und Country Potatoes\nTagesangebot 4: Paniertes Seelachsfilet - mit 
+ Remouladensauce und Kartoffelsalat\nGemüsebeilage: Blattspinat\nStärkebe
+ ilage 1: Country Potatoes\nStärkebeilage 2: Kartoffelsalat\nDessert 1: Fr
+ üchtequark\nDessert 2: Mousse mit Heidelbeer-Geschmack
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensa Stuttgart-Vaihingen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250826
+DTSTAMP:20250811T132058Z
+DESCRIPTION:Suppe: Tagessuppe\nTagesangebot 1: Tomaten-Hirse mit Haselnüs
+ sen\nTagesangebot 2: Allgäuer Käsespätzle - mit Zwiebelschmelze\nTagesa
+ ngebot 4: Frittierte Tintenfischringe mit Zitrone\, - Knoblauch-Dip und Po
+ mmes frites\nGemüsebeilage: Kaisergemüse\nStärkebeilage 1: Pommes frite
+ s\nDessert 1: Himbeerquark\nDessert 2: Früchtemüsli
+END:VEVENT
+END:VCALENDAR
