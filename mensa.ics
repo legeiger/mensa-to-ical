@@ -2,133 +2,135 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Pasta mit\, Currywurst\, Korma Chicken\, Antipasti
-DTSTART;VALUE=DATE:20250812
-DTEND;VALUE=DATE:20250813
-DTSTAMP:20250812T051654Z
-DESCRIPTION:Suppe: Pilzcremesuppe\n1: Pasta mit Sojabolognese\n3: Currywur
- st - mit Currysauce und Pommes frites\n4: Korma Chicken - und Duftreis\n5:
-  Antipasti\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2: 
- Duftreis\nDessert 1: Sahneschokopudding\nDessert 2: Veganer Heidelbeerquar
- k\nUpdated: 2025-08-12 07:16:54 CEST
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rotes-Linsen-Kartoffel-Curry\, Kartoffel-Zucchini-Gratin\, Teigtas
  chen\, Cordon bleu
 DTSTART;VALUE=DATE:20250813
 DTEND;VALUE=DATE:20250814
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Rotes-Linsen-Kartoffel-Curry m
  it Rosinen\n2: Kartoffel-Zucchini-Gratin\n3: Teigtaschen mit Kartoffel-Qua
  rkfüllung - und Salatgarnitur \,Sour-Cream Dip\n4: Cordon bleu vom Schwei
  n - mit Bratensauce und Pommes frites\nGemüse: Erbsen\nBeilage 1: Pommes 
  frites\nBeilage 2: Salzkartoffeln\nDessert 1: Käsesahne Creme\nDessert 2:
-  Vegane Himbeercreme\nUpdated: 2025-08-12 07:16:54 CEST
+  Veganer Bananenquark\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkorn Penne\, Schupfnudelnpfanne\, Allgäuer Käsespätzle\, An
  tipasti
 DTSTART;VALUE=DATE:20250814
 DTEND;VALUE=DATE:20250815
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Vollkorn Penne mit mediterrane
  m Gemüse\n2: Schupfnudelnpfanne mit Zucchini\, Paprika und Chilidip\n4: A
  llgäuer Käsespätzle - mit Zwiebelschmelze\n5: Antipasti\nGemüse: Kaise
  rgemüse\nBeilage 1: Reis\nBeilage 2: Pommes frites\nDessert 1: Rote Grüt
  ze - mit Dessertsauce Vanille\nDessert 2: Kokosmilchreis mit Mango\nUpdate
- d: 2025-08-12 07:16:54 CEST
+ d: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gemüse-Knusperfrikadelle\, Fajitas mit\, Backfisch
+SUMMARY:Chili sin\, Fajitas mit\, Backfisch
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250816
-DTSTAMP:20250812T051654Z
-DESCRIPTION:Suppe: Tomatensuppe\n1: Gemüse-Knusperfrikadelle - mit vegane
- r Kräutercremesauce und Reis\n3: Fajitas mit Gemüse\, Sojastreifen und D
- ip - mit veganem Sour-Cream Dip\n4: Backfisch - mit Remouladensauce und Ka
- rtoffel-Gurkensalat\nGemüse: Buntes Gemüse\nBeilage 1: Pommes frites\nBe
- ilage 2: Kartoffel-Gurkensalat\nDessert 1: Nuss-Nougat-Pudding\nDessert 2:
-  Exotische Bayerische Creme\nUpdated: 2025-08-12 07:16:54 CEST
+DTSTAMP:20250813T051811Z
+DESCRIPTION:Suppe: Tomatensuppe\n1: Chili sin Carne - und Reis\n3: Fajitas
+  mit Gemüse\, Sojastreifen und Dip - mit veganem Sour-Cream Dip\n4: Backf
+ isch - mit Remouladensauce und Kartoffel-Gurkensalat\nGemüse: Buntes Gem
+ üse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffel-Gurkensalat\nBeilage 
+ 3: Reis\nStärkebeilage 4: Reis\nDessert 1: Nuss-Nougat-Pudding\nDessert 2
+ : Exotische Bayerische Creme\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne mit\, Köttbullar\, Lasagne
 DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250819
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Penne mit Champignons und Cocktail
  tomaten\n3: Köttbullar - mit Rahmsauce \,Preiselbeeren und Salzkartoffeln
  \n4: Lasagne - mit Tomatensauce\nGemüse: Broccoli\nBeilage 1: Pommes frit
  es\nBeilage 2: Petersilienkartoffeln\nDessert 1: Pudding mit Vanille-Gesch
- mack\nDessert 2: Kirschjoghurt\nUpdated: 2025-08-12 07:16:54 CEST
+ mack\nDessert 2: Kirschjoghurt\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegane Paella\, Seelachsfilet\, Sojageschnetzeltes\, Antipasti
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250820
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Vegane Paella\n3: Seelachsfilet auf me
  diterranem Zartweizen mit Zucchini\, Oliven und getrockneten Tomaten\n4: S
  ojageschnetzeltes Szechuan - mit Mienudeln\n5: Antipasti\nGemüse: Rahmblu
  menkohl\nBeilage 1: Pommes frites\nBeilage 2: Mienudeln\nBeilage 3: Gemüs
  ezartweizen\nDessert 1: Veganer Himbeerquark\nDessert 2: Mousse mit Limone
- -Joghurt-Geschmack\nUpdated: 2025-08-12 07:16:54 CEST
+ -Joghurt-Geschmack\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karotten-Gnocchi-Ragout\, Spaghetti\, Enchiladas
 DTSTART;VALUE=DATE:20250820
 DTEND;VALUE=DATE:20250821
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Karotten-Gnocchi-Ragout\n3: Spaghetti B
  olognese mit Reibekäse\n4: Enchiladas Mexico mit Grillgemüse - und Count
  ry Potatoes\nGemüse: Buntes Gemüse\nBeilage 1: Schwenkkartoffeln\nBeilag
  e 2: Country Potatoes\nDessert 1: Veganes Haferdessert Saltet Caramel\nDes
- sert 2: Waldbeerenquark\nUpdated: 2025-08-12 07:16:54 CEST
+ sert 2: Waldbeerenquark\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schupfnudel-Sauerkraut-Pfanne\, Schweinebraten\, Hähnchen-Nuggets
  \, Antipasti
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Karottencremesuppe\n1: Schupfnudel-Sauerkraut-Pfanne\n3
  : Schweinebraten - mit Rahmsauce und Spätzle\n4: Hähnchen-Nuggets - mit 
  Curry Dip und Pommes frites\n5: Antipasti\nGemüse: Grüne Bohnen\nBeilage
   1: Pommes frites\nBeilage 2: Spätzle\nDessert 1: Früchtemüsli\nDessert
-  2: Veganer Grießpudding mit Pfirsich\nUpdated: 2025-08-12 07:16:54 CEST
+  2: Veganer Grießpudding mit Pfirsich\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reispfanne\, Rote Wurst\, Paniertes
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Reispfanne mit Naturreis und Weißkr
  aut-\,Paprikagemüse\n3: Rote Wurst - mit Pusztasauce und Country Potatoes
  \n4: Paniertes Seelachsfilet - mit Remouladensauce und Kartoffelsalat\nGem
  üse: Blattspinat\nBeilage 1: Country Potatoes\nBeilage 2: Kartoffelsalat\
  nDessert 1: Früchtequark\nDessert 2: Mousse mit Heidelbeer-Geschmack\nUpd
- ated: 2025-08-12 07:16:54 CEST
+ ated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Hirse\, Allgäuer Käsespätzle\, Frittierte
 DTSTART;VALUE=DATE:20250825
 DTEND;VALUE=DATE:20250826
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Tomaten-Hirse mit Haselnüssen\n2: Allg
  äuer Käsespätzle - mit Zwiebelschmelze\n4: Frittierte Tintenfischringe 
  mit Zitrone\, - Knoblauch-Dip und Pommes frites\nGemüse: Kaisergemüse\nB
  eilage 1: Pommes frites\nDessert 1: Himbeerquark\nDessert 2: Früchtemüsl
- i\nUpdated: 2025-08-12 07:16:54 CEST
+ i\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Kaiserschmarrn\, Schweinegulasch\, Antipasti
 DTSTART;VALUE=DATE:20250826
 DTEND;VALUE=DATE:20250827
-DTSTAMP:20250812T051654Z
+DTSTAMP:20250813T051811Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Kichererbsen-Curry mit Duftreis\n2: Kais
  erschmarrn mit Rosinen - und Apfelmus\n4: Schweinegulasch mit Paprika - un
  d Spätzle\n5: Antipasti\nGemüse: Fingermöhren\nBeilage 1: Duftreis\nBei
  lage 2: Pommes frites\nDessert 1: Creme mit Tiramisu-Geschmack\nDessert 2:
-  Veganer Haferquark mit Honig und Mandeln\nUpdated: 2025-08-12 07:16:54 CE
+  Veganer Haferquark mit Honig und Mandeln\nUpdated: 2025-08-13 07:18:11 CE
  ST
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veganes Gyros\, Bunter Salatteller\, Paniertes
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250828
+DTSTAMP:20250813T051811Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Veganes Gyros - mit veganem Tzatziki\, P
+ aprikareis und Weißkrautsalat\n2: Bunter Salatteller mit - Essig-Öl-Dres
+ sing und gebackenem Hirtenkäse\n4: Paniertes Schweineschnitzel - mit Pilz
+ sauce und Kräuterknöpfle\nGemüse: Rahmblumenkohl\nBeilage 1: Paprikarei
+ s\nBeilage 2: Pommes frites\nBeilage 3: Kräuterknöpfle\nDessert 1: Vegan
+ er Pudding mit Vanille-Geschmack und Himbeersauce\nDessert 2: Weißes Mous
+ se au chocolat\nUpdated: 2025-08-13 07:18:11 CEST
 END:VEVENT
 END:VCALENDAR
