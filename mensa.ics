@@ -2,134 +2,134 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Karotten-Gnocchi-Ragout\, Lasagne\, Spaghetti\, Enchiladas
-DTSTART;VALUE=DATE:20250820
-DTEND;VALUE=DATE:20250821
-DTSTAMP:20250820T051630Z
-DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Karotten-Gnocchi-Ragout\n2: La
- sagne - mit Tomatensauce\n3: Spaghetti Bolognese mit Reibekäse\n4: Enchil
- adas Mexico mit Grillgemüse - und Country Potatoes\nGemüse: Blattspinat\
- nBeilage 1: Schwenkkartoffeln\nBeilage 2: Country Potatoes\nDessert 1: Veg
- anes Haferdessert Saltet Caramel\nDessert 2: Waldbeerenquark\nUpdated: 202
- 5-08-20 07:16:30 CEST
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Schupfnudel-Sauerkraut-Pfanne\, Schweinebraten\, Hähnchen-Nuggets
  \, Antipasti
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250822
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Karottencremesuppe\n1: Schupfnudel-Sauerkraut-Pfanne\n3
  : Schweinebraten - mit Rahmsauce und Spätzle\n4: Hähnchen-Nuggets - mit 
  Curry Dip und Country Potatoes\n5: Antipasti\nGemüse: Grüne Bohnen\nBeil
- age 1: Spätzle\nBeilage 2: Country Potatoes\nBeilage 3: Country Potatoes\
- nDessert 1: Früchtemüsli\nDessert 2: Veganer Grießpudding mit Pfirsich\
- nUpdated: 2025-08-20 07:16:30 CEST
+ age 1: Spätzle\nBeilage 2: Country Potatoes\nDessert 1: Früchtemüsli\nD
+ essert 2: Veganer Grießpudding mit Pfirsich\nUpdated: 2025-08-21 07:16:50
+  CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reispfanne\, Rote Wurst\, Paniertes
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250823
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Reispfanne mit Naturreis und Weißkr
  aut-\,Paprikagemüse\n3: Rote Wurst - mit Pusztasauce und Country Potatoes
  \n4: Paniertes Seelachsfilet - mit Remouladensauce und Kartoffelsalat\nGem
  üse: Buntes Gemüse\nBeilage 1: Country Potatoes\nBeilage 2: Kartoffelsal
  at\nDessert 1: Früchtequark\nDessert 2: Mousse mit Heidelbeer-Geschmack\n
- Updated: 2025-08-20 07:16:30 CEST
+ Updated: 2025-08-21 07:16:50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Hirse\, Allgäuer Käsespätzle\, Frittierte
 DTSTART;VALUE=DATE:20250825
 DTEND;VALUE=DATE:20250826
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Tomaten-Hirse mit Haselnüssen\n2: All
  gäuer Käsespätzle - mit Zwiebelschmelze\n4: Frittierte Tintenfischringe
   mit Zitrone\, - Knoblauch-Dip und Pommes frites\nGemüse: Kaisergemüse\n
  Beilage 1: Pommes frites\nDessert 1: Himbeerquark\nDessert 2: Früchtemüs
- li\nUpdated: 2025-08-20 07:16:30 CEST
+ li\nUpdated: 2025-08-21 07:16:50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Kaiserschmarrn\, Schweinegulasch\, Antipasti
 DTSTART;VALUE=DATE:20250826
 DTEND;VALUE=DATE:20250827
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Kichererbsen-Curry mit Duftreis\n2
  : Kaiserschmarrn mit Rosinen - und Apfelmus\n4: Schweinegulasch mit Paprik
  a - und Spätzle\n5: Antipasti\nGemüse: Fingermöhren\nBeilage 1: Duftrei
  s\nBeilage 2: Pommes frites\nDessert 1: Creme mit Tiramisu-Geschmack\nDess
- ert 2: Veganer Haferquark mit Honig und Mandeln\nUpdated: 2025-08-20 07:16
- :30 CEST
+ ert 2: Veganer Haferquark mit Honig und Mandeln\nUpdated: 2025-08-21 07:16
+ :50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Bunter Salatteller\, Paniertes
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250828
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  atziki\, Paprikareis und Weißkrautsalat\n2: Bunter Salatteller mit - Essi
  g-Öl-Dressing und gebackenem Hirtenkäse\n4: Paniertes Schweineschnitzel 
  - mit Pilzsauce und Kräuterknöpfle\nGemüse: Rahmblumenkohl\nBeilage 1: 
  Paprikareis\nBeilage 2: Pommes frites\nBeilage 3: Kräuterknöpfle\nDesser
  t 1: Veganer Pudding mit Vanille-Geschmack und Himbeersauce\nDessert 2: We
- ißes Mousse au chocolat\nUpdated: 2025-08-20 07:16:30 CEST
+ ißes Mousse au chocolat\nUpdated: 2025-08-21 07:16:50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Kartoffelrösti\, Linsen\, Antipasti
 DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250829
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Linsen - und vegane Spätzle\n
  2: Kartoffelrösti - mit Champignon-Gemüseragout\n3: Linsen - und Spätzl
  e mit Saiten\n5: Antipasti\nGemüse: Erbsen\nBeilage 1: Pommes frites\nBei
  lage 2: Spätzle\nDessert 1: Mandarinenquark\nDessert 2: Veganer Schokopud
- ding mit Kirschen\nUpdated: 2025-08-20 07:16:30 CEST
+ ding mit Kirschen\nUpdated: 2025-08-21 07:16:50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Pilaw\, Fleischküchle\, Backfisch
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250830
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n3: Flei
  schküchle - mit Rahmsauce und Spirelli\n4: Backfisch - mit Frankfurter Gr
  üne Sauce und Kartoffelsalat\nGemüse: Ratatouille-Gemüse\nBeilage 1: Sp
  irelli\nBeilage 2: Kartoffelsalat\nBeilage 3: Pommes frites\nDessert 1: Nu
  ss-Nougat-Pudding\nDessert 2: Panna Cotta mit Erdbeermus\nUpdated: 2025-08
- -20 07:16:30 CEST
+ -21 07:16:50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rigatoni\, Quinoa-Grünkohl-Strudel\, Geflügelfrikadelle
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250902
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Rigatoni - mit Tomaten-Paprikasauce und 
  veganem Sour-Cream-Topping\n3: Quinoa-Grünkohl-Strudel - mit veganem Sour
  -Cream Dip und Salat\n4: Geflügelfrikadelle - mit Barbecuesauce\, und Pom
  mes frites\nGemüse: Grüne Bohnen\nBeilage 1: Pommes frites\nBeilage 2: P
  etersilienkartoffeln\nDessert 1: Sahneschokopudding\nDessert 2: Früchtequ
- ark\nUpdated: 2025-08-20 07:16:30 CEST
+ ark\nUpdated: 2025-08-21 07:16:50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zartweizen-Pfanne\, Hackfleischröllchen\, Paniertes
 DTSTART;VALUE=DATE:20250902
 DTEND;VALUE=DATE:20250903
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Zartweizen-Pfanne\n3: Hackfleischröllch
  en - mit Pfefferrahmsauce und Spirelli\n4: Paniertes Schollenfilet - mit d
  änischer Remoulade und Bratkartoffeln\nGemüse: Buntes Gemüse\nBeilage 1
  : Pommes frites\nBeilage 2: Bratkartoffeln\nDessert 1: Aprikosenjoghurt\nD
- essert 2: Exotischer Obstsalat\nUpdated: 2025-08-20 07:16:30 CEST
+ essert 2: Exotischer Obstsalat\nUpdated: 2025-08-21 07:16:50 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geschwenkte\, Gemüse-Knusperfrikadelle\, Hähnchenbrustfilet
 DTSTART;VALUE=DATE:20250903
 DTEND;VALUE=DATE:20250904
-DTSTAMP:20250820T051630Z
+DTSTAMP:20250821T051650Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Geschwenkte Risoleekartoffeln mit grüne
  n Bohnen und Paprika Dip\n2: Gemüse-Knusperfrikadelle - mit Mango Curry S
  alsa und Country Potatoes\n4: Hähnchenbrustfilet Piccata Milanese - mit T
  omaten-Spaghetti\nGemüse: Rahmblumenkohl\nBeilage 1: Country Potatoes\nDe
  ssert 1: Vanillejoghurt\nDessert 2: Veganes Haferdessert Saltet Caramel\nU
- pdated: 2025-08-20 07:16:30 CEST
+ pdated: 2025-08-21 07:16:50 CEST
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaghetti\, Gebratene\, Gebackene
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250905
+DTSTAMP:20250821T051650Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Spaghetti - mit Napolisauce\n3: Gebraten
+ e Putenbrust - an Pilzrahmsauce mit Weißwein und Kräuterknöpfle\n4: Geb
+ ackene Champignonköpfe - mit Remouladensauce und Salat\nGemüse: Kokos-Sc
+ hlemmergemüse\nBeilage 1: Pommes frites\nBeilage 2: Kräuterknöpfle\nDes
+ sert 1: Veganer Himbeerquark\nDessert 2: Birne-Quitte Mascarponecreme\nUpd
+ ated: 2025-08-21 07:16:50 CEST
 END:VEVENT
 END:VCALENDAR
