@@ -2,46 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Blumenkohl-Kartoffel-Curry\, 2 Crispy\, Seelachsfilet\, Koeriwerk\
- , Koeriwerk
-DTSTART;VALUE=DATE:20250916
-DTEND;VALUE=DATE:20250917
-DTSTAMP:20250916T051509Z
-DESCRIPTION:Suppe: Tomatensuppe\n1: Blumenkohl-Kartoffel-Curry - und Reis\
- n2: 2 Crispy Drumsticks - mit Mango Curry Salsa und Pommes frites\n4: Seel
- achsfilet auf mediterranem Gemüsebett - und Reis\n5: Koeriwerk Kalbs-Curr
- ywurst mit Steinofenbaguette\nTagesangebot 6: Koeriwerk vegane Currywurst 
- mit Steinofenbaguette\nGemüse: Grüne Bohnen\nBeilage 1: Pommes frites\nB
- eilage 2: Reis\nDessert 1: Mousse mit Limone-Joghurt-Geschmack\nDessert 2:
-  Veganes Mousse au chocolat\nUpdated: 2025-09-16 07:15:09 CEST
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pennen mit\, Mini-Frühlingsrollen\, Paniertes\, Koeriwerk\, Koeri
  werk
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250918
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Pennen mit Rucola-Sonnenblumen
  kernpesto\n2: Mini-Frühlingsrollen mit fruchtiger Currysauce - und Duftre
  is\n4: Paniertes Schweineschnitzel - \,Preiselbeeren mit Rahmsauce und Sp
  ätzle\n5: Koeriwerk Kalbs-Currywurst mit Steinofenbaguette\nTagesangebot 
- 6: Koeriwerk vegane Currywurst mit Steinofenbaguette\nGemüse: Orientalisc
- hes Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Spätzle\nBeilage 3: Duf
- treis\nDessert 1: Sahneschokopudding\nDessert 2: Veganer Früchtequark\nUp
- dated: 2025-09-16 07:15:09 CEST
+ 6: Koeriwerk vegane Currywurst mit Steinofenbaguette\nGemüse: Buntes Gem
+ üse\nBeilage 1: Pommes frites\nBeilage 2: Spätzle\nBeilage 3: Duftreis\n
+ Dessert 1: Sahneschokopudding\nDessert 2: Veganer Früchtequark\nUpdated: 
+ 2025-09-17 07:15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Scharfe Chicken\, Linsen\, Koeriwerk\, Koeriwerk
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Linsen - und vegane Spätzle\n3: Sch
  arfe Chicken Wings - mit Barbecuesauce\, und Farmersalat und Country Potat
  oes\n4: Linsen - und Spätzle mit Saiten\n5: Koeriwerk Kalbs-Currywurst mi
  t Steinofenbaguette\nTagesangebot 6: Koeriwerk vegane Currywurst mit Stein
  ofenbaguette\nGemüse: Blattspinat\nBeilage 1: Country Potatoes\nBeilage 2
  : Spätzle\nDessert 1: Veganer Pudding mit Vanille-Geschmack und Himbeersa
- uce\nDessert 2: Bayerische Creme mit Zimtkirschen\nUpdated: 2025-09-16 07:
+ uce\nDessert 2: Bayerische Creme mit Zimtkirschen\nUpdated: 2025-09-17 07:
  15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
@@ -49,35 +35,35 @@ SUMMARY:Spätzle-Pilzpfanne\, Pad Thai\, Seelachs in\, Koeriwerk\, Koeriwe
  rk
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Spätzle-Pilzpfanne\n3: Pad Thai - Thai
  ländische Reisbandnudeln\n4: Seelachs in der Sesampanade - mit Remouladen
  sauce Steakhouse frites\n5: Koeriwerk Kalbs-Currywurst mit Steinofenbaguet
  te\nTagesangebot 6: Koeriwerk vegane Currywurst mit Steinofenbaguette\nGem
  üse: Kokos-Schlemmergemüse\nBeilage 1: Steakhouse frites\nDessert 1: Kok
  osmilchreis mit Mango\nDessert 2: Mousse mit Blutorangen-Geschmack\nUpdate
- d: 2025-09-16 07:15:09 CEST
+ d: 2025-09-17 07:15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spinatnudeln\, Gemüsestrudel\, Maultaschen\, Koeriwerk\, Koeriwer
  k
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Spinatnudeln\n2: Gemüsestrudel - mit 
  Kräuterquark und Salat\n3: Maultaschen - mit Zwiebelsauce und Kartoffelsa
  lat\n5: Koeriwerk Kalbs-Currywurst mit Steinofenbaguette\nTagesangebot 6: 
  Koeriwerk vegane Currywurst mit Steinofenbaguette\nGemüse: Broccoli\nBeil
  age 1: Pommes frites\nBeilage 2: Kartoffelsalat\nBeilage 3: Schwenkkartoff
  eln\nDessert 1: Heidelbeerjoghurt\nDessert 2: Nuss-Nougat-Pudding\nUpdated
- : 2025-09-16 07:15:09 CEST
+ : 2025-09-17 07:15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Germknödel\, Seelachs Nuggets\, Koeriwerk\, Koeri
  werk
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Veganes Gyros - mit veganem Tzatzi
  ki\, Paprikareis und Weißkrautsalat\n2: Germknödel mit Mohnbutter - mit 
  Dessertsauce Vanille\n4: Seelachs Nuggets - mit Honig-Senf-Dip und Steakho
@@ -85,56 +71,57 @@ DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Veganes Gyros - mit veganem Tzatzi
  bot 6: Koeriwerk vegane Currywurst mit Steinofenbaguette\nGemüse: Erbsen\
  nBeilage 1: Reis\nBeilage 2: Steakhouse frites\nDessert 1: Veganer Pudding
   mit Vanille-Geschmack und Himbeersauce\nDessert 2: Früchtemüsli\nUpdate
- d: 2025-09-16 07:15:09 CEST
+ d: 2025-09-17 07:15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indisches\, Penne Bolognese\, Hähnchen Cordon\, Koeriwerk\, Koeri
  werk
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Indisches Auberginencurry mit Kicher
  erbsenreis\n3: Penne Bolognese überbacken\n4: Hähnchen Cordon bleu - und
   Pommes frites\n5: Koeriwerk Kalbs-Currywurst mit Steinofenbaguette\nTages
  angebot 6: Koeriwerk vegane Currywurst mit Steinofenbaguette\nGemüse: Rah
  mblumenkohl\nBeilage 1: Pommes frites\nBeilage 2: Kichererbsenreis\nDesser
  t 1: Veganer Mangoquark\nDessert 2: Sahneschokopudding\nUpdated: 2025-09-1
- 6 07:15:09 CEST
+ 7 07:15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Schweinemedaillons\, Allgäuer Käsesp
  ätzle\, Koeriwerk\, Koeriwerk
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250926
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Gemüse-Knusperfrikadelle - mi
  t veganem Hafer-Kräuterquark und Pommes frites\n3: Schweinemedaillons - m
  it Pilzsauce und Spätzle\n4: Allgäuer Käsespätzle - mit Zwiebelschmelz
  e\n5: Koeriwerk Kalbs-Currywurst mit Steinofenbaguette\nTagesangebot 6: Ko
  eriwerk vegane Currywurst mit Steinofenbaguette\nGemüse: Fingermöhren\nB
- eilage 1: Pommes frites\nBeilage 2: Spätzle\nDessert 1: Erdbeerjoghurt\nD
- essert 2: Veganer Himbeerquark\nUpdated: 2025-09-16 07:15:09 CEST
+ eilage 1: Pommes frites\nBeilage 2: Spätzle\nDessert 1: Veganer Himbeerqu
+ ark\nDessert 2: Panna Cotta mit Erdbeermus\nUpdated: 2025-09-17 07:15:09 C
+ EST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chili sin\, Geflügelfrikadelle\, Hokifilet\, Koeriwerk\, Koeriwer
  k
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Chili sin Carne - und Reis\n3:
   Geflügelfrikadelle - mit Barbecuesauce\, und Steakhouse frites\n4: Hokif
  ilet mit Brokkoligemüse\, gerösteten Kartoffeln - und Kräuterschmand\n5
  : Koeriwerk Kalbs-Currywurst mit Steinofenbaguette\nTagesangebot 6: Koeriw
  erk vegane Currywurst mit Steinofenbaguette\nGemüse: Kaisergemüse\nBeila
  ge 1: Steakhouse frites\nBeilage 2: Bratkartoffeln\nBeilage 3: Reis\nDesse
- rt 1: Panna Cotta mit Erdbeermus\nDessert 2: Schokoladenpudding mit Birne\
- nUpdated: 2025-09-16 07:15:09 CEST
+ rt 1: Erdbeerjoghurt\nDessert 2: Schokoladenpudding mit Birne\nUpdated: 20
+ 25-09-17 07:15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gebratene\, Kohlroulade\, Paniertes\, Koeriwerk\, Koeriwerk
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Gebratene Mienudeln mit Paprika\, Weißk
  raut und Karotten\n3: Kohlroulade - mit Bratensauce und Kartoffelpüree\n4
  : Paniertes Hähnchenschnitzel - mit Zitronen-Knoblauchsauce und Spirelli\
@@ -142,19 +129,33 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Gebratene Mienudeln mit Paprika\, Weißk
  iwerk vegane Currywurst mit Steinofenbaguette\nGemüse: Buntes Gemüse\nBe
  ilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\nBeilage 3: Spirelli\nD
  essert 1: Sahneschokopudding\nDessert 2: Pfirsichjoghurt\nUpdated: 2025-09
- -16 07:15:09 CEST
+ -17 07:15:09 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Linsen\, Paniertes\, Koeriwerk\, Koeriwerk
 DTSTART;VALUE=DATE:20250930
 DTEND;VALUE=DATE:20251001
-DTSTAMP:20250916T051509Z
+DTSTAMP:20250917T051509Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Linsen - und vegane Spätzle\n3: Linsen 
  - und Spätzle mit Saiten\n4: Paniertes Hokifilet - mit Limettenschmand un
  d Thymiankartoffeln\n5: Koeriwerk Kalbs-Currywurst mit Steinofenbaguette\n
  Tagesangebot 6: Koeriwerk vegane Currywurst mit Steinofenbaguette\nGemüse
  : Grüne Bohnen\nBeilage 1: Pommes frites\nBeilage 2: Spätzle\nBeilage 3:
   Thymiankartoffeln\nDessert 1: Vanillejoghurt\nDessert 2: Veganes Früchte
- müsli\nUpdated: 2025-09-16 07:15:09 CEST
+ müsli\nUpdated: 2025-09-17 07:15:09 CEST
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kichererbsen-Curry\, Vegane Tortelloni\, Schweinegeschnetzeltes\, 
+ Koeriwerk\, Koeriwerk
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+DTSTAMP:20250917T051509Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Kichererbsen-Curry mit Duftreis\n2: Vega
+ ne Tortelloni mit Basilikum-Gemüsesauce\n4: Schweinegeschnetzeltes mit Ch
+ ampignons - mit Kartoffelrösti\n5: Koeriwerk Kalbs-Currywurst mit Steinof
+ enbaguette\nTagesangebot 6: Koeriwerk vegane Currywurst mit Steinofenbague
+ tte\nGemüse: Ratatouille-Gemüse\nBeilage 1: Duftreis\nBeilage 2: Pommes 
+ frites\nDessert 1: Veganer Heidelbeerquark\nDessert 2: Mandarinen Mascarpo
+ ne Creme\nUpdated: 2025-09-17 07:15:09 CEST
 END:VEVENT
 END:VCALENDAR
