@@ -2,53 +2,38 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Vegane Paella\, Schweinebraten\, Seelachsfilet\, [Koeri]werk\, Loa
- ded Fries
-DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251015
-DTSTAMP:20251014T051537Z
-DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Vegane Paella\n2: Schweinebrat
- en - mit Rahmsauce und Spätzle\n4: Seelachsfilet auf mediterranem Zartwei
- zen mit Zucchini\, Oliven und getrockneten Tomaten\n5: [Koeri]werk Kalbs-C
- urrywurst mit Steinofenbaguette\nTagesangebot 6: Loaded Fries mit Bratensa
- uce und Mozzarella\nTagesangebot 7: Loaded Fries mit Sojabolognese\nGemüs
- e: Grüne Bohnen\nBeilage 1: Gemüsezartweizen\nBeilage 2: Pommes frites\n
- Beilage 3: Spätzle\nDessert 1: Veganer Himbeerquark\nDessert 2: Mousse mi
- t Limone-Joghurt-Geschmack\nUpdated: 2025-10-14 07:15:37 CEST
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kürbis-Karotten-Gnocchi-Ragout\, Spaghetti\, Hähnchen-Nuggets\, 
  Zwiebelkuchen\, Vegetarischer
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Kürbis-Karotten-Gnocchi-Ragou
  t\n3: Spaghetti Bolognese mit Reibekäse\n4: Hähnchen-Nuggets - mit Curry
   Dip und Pommes frites\n5: Zwiebelkuchen mit Speck und einem Becher Traube
  nsaft\nTagesangebot 6: Vegetarischer Zwiebelkuchen mit einem Becher Traube
  nsaft\nGemüse: Buntes Gemüse\nBeilage 1: Pommes frites\nDessert 1: Früc
- htemüsli\nDessert 2: Veganer Ananas-Kokos-Quark\nUpdated: 2025-10-14 07:1
- 5:37 CEST
+ htemüsli\nDessert 2: Veganer Ananas-Kokos-Quark\nUpdated: 2025-10-15 07:1
+ 5:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schupfnudel-Sauerkraut-Pfanne\, Omelette\, Enchiladas\, [Koeri]wer
  k\, Loaded Fries
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251017
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Schupfnudel-Sauerkraut-Pfanne\n2: Om
  elette - mit Blattspinat und Salzkartoffeln\n4: Enchiladas Mexico mit Gril
  lgemüse - und Country Potatoes\n5: [Koeri]werk Kalbs-Currywurst mit Stein
  ofenbaguette\nTagesangebot 6: Loaded Fries mit Bratensauce und Mozzarella\
  nTagesangebot 7: Loaded Fries mit Sojabolognese\nGemüse: Blattspinat\nBei
  lage 1: Country Potatoes\nDessert 1: Veganer Grießpudding mit Pfirsich\nD
- essert 2: Waldbeerenquark\nUpdated: 2025-10-14 07:15:37 CEST
+ essert 2: Waldbeerenquark\nUpdated: 2025-10-15 07:15:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reispfanne\, Rote Wurst\, Paniertes\, [Koeri]werk\, Loaded Fries
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Reispfanne mit Naturreis und Weiß
  kraut-\,Paprikagemüse\n3: Rote Wurst - mit Pusztasauce und Djuvec-Reis\n4
  : Paniertes Seelachsfilet - mit Remouladensauce und Kartoffelsalat\n5: [Ko
@@ -56,7 +41,7 @@ DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Reispfanne mit Naturreis und Weiß
  ies mit Bratensauce und Mozzarella\nTagesangebot 7: Loaded Fries mit Sojab
  olognese\nGemüse: Kokos-Schlemmergemüse\nBeilage 1: Djuvec-Reis\nBeilage
   2: Kartoffelsalat\nBeilage 3: Pommes frites\nDessert 1: Früchtequark\nDe
- ssert 2: Mousse mit Heidelbeer-Geschmack\nUpdated: 2025-10-14 07:15:37 CES
+ ssert 2: Mousse mit Heidelbeer-Geschmack\nUpdated: 2025-10-15 07:15:56 CES
  T
 END:VEVENT
 BEGIN:VEVENT
@@ -64,34 +49,34 @@ SUMMARY:Tomaten-Hirse\, Allgäuer Käsespätzle\, [Koeri]werk\, Loaded Fri
  es\, Loaded Fries
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Tomaten-Hirse mit Haselnüssen\n2: A
  llgäuer Käsespätzle - mit Zwiebelschmelze\n5: [Koeri]werk Kalbs-Currywu
  rst mit Steinofenbaguette\nTagesangebot 6: Loaded Fries mit Bratensauce un
  d Mozzarella\nTagesangebot 7: Loaded Fries mit Sojabolognese\nGemüse: Bro
  ccoli\nBeilage 1: Pommes frites\nDessert 1: Himbeerquark\nDessert 2: Früc
- htemüsli\nUpdated: 2025-10-14 07:15:37 CEST
+ htemüsli\nUpdated: 2025-10-15 07:15:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Schweinegulasch\, [Koeri]werk\, Loaded Fries\
  , Loaded Fries
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Kichererbsen-Curry mit Duftreis\n4: Sc
  hweinegulasch mit Paprika - und Spätzle\n5: [Koeri]werk Kalbs-Currywurst 
  mit Steinofenbaguette\nTagesangebot 6: Loaded Fries mit Bratensauce und Mo
  zzarella\nTagesangebot 7: Loaded Fries mit Sojabolognese\nGemüse: Pariser
   Karotten\nBeilage 1: Duftreis\nBeilage 2: Pommes frites\nDessert 1: Creme
   mit Tiramisu-Geschmack\nDessert 2: Veganer Haferquark mit Honig und Mande
- ln\nUpdated: 2025-10-14 07:15:37 CEST
+ ln\nUpdated: 2025-10-15 07:15:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Paniertes\, [Koeri]werk\, Loaded Fries\, Loaded Fr
  ies
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  atziki\, Paprikareis und Weißkrautsalat\n4: Paniertes Schweineschnitzel -
   mit Pilzsauce und Kräuterknöpfle\n5: [Koeri]werk Kalbs-Currywurst mit S
@@ -99,58 +84,70 @@ DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  lla\nTagesangebot 7: Loaded Fries mit Sojabolognese\nGemüse: Kaisergemüs
  e\nBeilage 1: Paprikareis\nBeilage 2: Kräuterknöpfle\nBeilage 3: Pommes 
  frites\nDessert 1: Veganer Pudding mit Vanille-Geschmack und Himbeersauce\
- nDessert 2: Weißes Mousse au chocolat\nUpdated: 2025-10-14 07:15:37 CEST
+ nDessert 2: Weißes Mousse au chocolat\nUpdated: 2025-10-15 07:15:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Linsen\, Hausgemachte\, [Koeri]werk\, Loaded Fries
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Pilzcremesuppe\n1: Linsen - und vegane Spätzle\n3: Lin
  sen - und Spätzle mit Saiten\n4: Hausgemachte Lasagne Bolognese - mit Tom
  atensauce\n5: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nTagesang
  ebot 6: Loaded Fries mit Bratensauce und Mozzarella\nTagesangebot 7: Loade
  d Fries mit Sojabolognese\nGemüse: Erbsen\nBeilage 1: Pommes frites\nBeil
  age 2: Spätzle\nDessert 1: Mandarinenquark\nDessert 2: Veganer Schokopudd
- ing mit Kirschen\nUpdated: 2025-10-14 07:15:37 CEST
+ ing mit Kirschen\nUpdated: 2025-10-15 07:15:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Pilaw\, Backfisch\, [Koeri]werk\, Loaded Fries\, Loaded Fr
  ies
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n4: Back
  fisch - mit Remouladensauce und Kartoffelsalat\n5: [Koeri]werk Kalbs-Curry
  wurst mit Steinofenbaguette\nTagesangebot 6: Loaded Fries mit Bratensauce 
  und Mozzarella\nTagesangebot 7: Loaded Fries mit Sojabolognese\nGemüse: R
  ahmblumenkohl\nBeilage 1: Kartoffelsalat\nBeilage 2: Pommes frites\nDesser
  t 1: Nuss-Nougat-Pudding\nDessert 2: Panna Cotta mit Erdbeermus\nUpdated: 
- 2025-10-14 07:15:37 CEST
+ 2025-10-15 07:15:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Broccoli Kichererbsen\, Fleischküchle\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Broccoli Kichererbsen Pfanne - und Duftr
  eis\n3: Fleischküchle - mit Rahmsauce und Spirelli\n5: [Koeri]werk Kalbs-
  Currywurst mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk vegane Curry
  wurst mit Steinofenbaguette\nGemüse: Kaisergemüse\nBeilage 1: Spirelli\n
  Beilage 2: Pommes frites\nBeilage 3: Duftreis\nDessert 1: Früchtequark\nD
- essert 2: Sahneschokopudding\nUpdated: 2025-10-14 07:15:37 CEST
+ essert 2: Sahneschokopudding\nUpdated: 2025-10-15 07:15:56 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zartweizen-Pfanne\, Paniertes\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
-DTSTAMP:20251014T051537Z
+DTSTAMP:20251015T051556Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Zartweizen-Pfanne mit Kürbis\, Rosenkoh
  l und Apfel\n4: Paniertes Schollenfilet - mit dänischer Remoulade und Bra
  tkartoffeln\n5: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nTagesa
  ngebot 6: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nGemüse: Ra
  tatouille-Gemüse\nBeilage 1: Bratkartoffeln\nBeilage 2: Pommes frites\nDe
  ssert 1: Aprikosenjoghurt\nDessert 2: Exotischer Obstsalat\nUpdated: 2025-
- 10-14 07:15:37 CEST
+ 10-15 07:15:56 CEST
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geschwenkte\, Hähnchenbrustfilet\, [Koeri]werk\, [Koeri]werk
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+DTSTAMP:20251015T051556Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Geschwenkte Risoleekartoffeln mit grüne
+ n Bohnen und Paprika Dip\n4: Hähnchenbrustfilet Piccata Milanese - mit To
+ maten-Spaghetti\n5: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nTa
+ gesangebot 6: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nGemüse
+ : Rahmblumenkohl\nBeilage 1: Pommes frites\nDessert 1: Vanillejoghurt\nDes
+ sert 2: Veganer Ananas-Kokos-Quark\nUpdated: 2025-10-15 07:15:56 CEST
 END:VEVENT
 END:VCALENDAR
