@@ -6,31 +6,31 @@ SUMMARY:Tomaten-Hirse\, Allgäuer Käsespätzle\, [Koeri]werk\, [Koeri]wer
  k
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Tomaten-Hirse mit Haselnüssen\n2: A
  llgäuer Käsespätzle - mit Zwiebelschmelze\n5: [Koeri]werk vegane Curryw
  urst mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst m
  it Steinofenbaguette\nGemüse: Broccoli\nBeilage 1: Pommes frites\nDessert
-  1: Himbeerquark\nDessert 2: Früchtemüsli\nUpdated: 2025-10-19 07:15:26 
+  1: Himbeerquark\nDessert 2: Früchtemüsli\nUpdated: 2025-10-20 07:17:00 
  CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Schweinegulasch\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251021
 DTEND;VALUE=DATE:20251022
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Kichererbsen-Curry mit Duftreis\n4: Sc
  hweinegulasch mit Paprika - und Spätzle\n5: [Koeri]werk vegane Currywurst
   mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit S
  teinofenbaguette\nGemüse: Pariser Karotten\nBeilage 1: Duftreis\nBeilage 
  2: Pommes frites\nDessert 1: Creme mit Tiramisu-Geschmack\nDessert 2: Vega
- ner Haferquark mit Honig und Mandeln\nUpdated: 2025-10-19 07:15:26 CEST
+ ner Haferquark mit Honig und Mandeln\nUpdated: 2025-10-20 07:17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Paniertes\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  atziki\, Paprikareis und Weißkrautsalat\n4: Paniertes Schweineschnitzel -
   mit Pilzsauce und Kräuterknöpfle\n5: [Koeri]werk vegane Currywurst mit 
@@ -38,92 +38,108 @@ DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  fenbaguette\nGemüse: Kaisergemüse\nBeilage 1: Paprikareis\nBeilage 2: Kr
  äuterknöpfle\nBeilage 3: Pommes frites\nDessert 1: Veganer Pudding mit V
  anille-Geschmack und Himbeersauce\nDessert 2: Weißes Mousse au chocolat\n
- Updated: 2025-10-19 07:15:26 CEST
+ Updated: 2025-10-20 07:17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Linsen\, Hausgemachte\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Pilzcremesuppe\n1: Linsen - und vegane Spätzle\n3: Lin
  sen - und Spätzle mit Saiten\n4: Hausgemachte Lasagne Bolognese - mit Tom
  atensauce\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTagesan
  gebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Erbs
  en\nBeilage 1: Pommes frites\nBeilage 2: Spätzle\nDessert 1: Mandarinenqu
- ark\nDessert 2: Veganer Schokopudding mit Kirschen\nUpdated: 2025-10-19 07
- :15:26 CEST
+ ark\nDessert 2: Veganer Schokopudding mit Kirschen\nUpdated: 2025-10-20 07
+ :17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Pilaw\, Backfisch\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n4: Back
  fisch - mit Remouladensauce und Kartoffelsalat\n5: [Koeri]werk vegane Curr
  ywurst mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst
   mit Steinofenbaguette\nGemüse: Rahmblumenkohl\nBeilage 1: Kartoffelsalat
  \nBeilage 2: Pommes frites\nDessert 1: Nuss-Nougat-Pudding\nDessert 2: Pan
- na Cotta mit Erdbeermus\nUpdated: 2025-10-19 07:15:26 CEST
+ na Cotta mit Erdbeermus\nUpdated: 2025-10-20 07:17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Broccoli Kichererbsen\, Fleischküchle\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Broccoli Kichererbsen Pfanne - und Duftr
  eis\n3: Fleischküchle - mit Rahmsauce und Spirelli\n5: [Koeri]werk vegane
   Currywurst mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Curry
  wurst mit Steinofenbaguette\nGemüse: Kaisergemüse\nBeilage 1: Spirelli\n
  Beilage 2: Pommes frites\nBeilage 3: Duftreis\nDessert 1: Früchtequark\nD
- essert 2: Sahneschokopudding\nUpdated: 2025-10-19 07:15:26 CEST
+ essert 2: Sahneschokopudding\nUpdated: 2025-10-20 07:17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zartweizen-Pfanne\, Paniertes\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Zartweizen-Pfanne mit Kürbis\, Rosenkoh
  l und Apfel\n4: Paniertes Schollenfilet - mit dänischer Remoulade und Bra
  tkartoffeln\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTages
  angebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Ra
  tatouille-Gemüse\nBeilage 1: Bratkartoffeln\nBeilage 2: Pommes frites\nDe
  ssert 1: Aprikosenjoghurt\nDessert 2: Exotischer Obstsalat\nUpdated: 2025-
- 10-19 07:15:26 CEST
+ 10-20 07:17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geschwenkte\, Hähnchenbrustfilet\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Geschwenkte Risoleekartoffeln mit grüne
  n Bohnen und Paprika Dip\n4: Hähnchenbrustfilet Piccata Milanese - mit To
  maten-Spaghetti\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nT
  agesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse
  : Rahmblumenkohl\nBeilage 1: Pommes frites\nDessert 1: Vanillejoghurt\nDes
- sert 2: Veganer Ananas-Kokos-Quark\nUpdated: 2025-10-19 07:15:26 CEST
+ sert 2: Veganer Ananas-Kokos-Quark\nUpdated: 2025-10-20 07:17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti\, Gemüse-Frikadelle\, Aktionsessen\, [Koeri]werk
 DTSTART;VALUE=DATE:20251030
 DTEND;VALUE=DATE:20251031
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Spaghetti - mit Napolisauce\n2: Gemüse-
  Frikadelle - mit Mango Curry Salsa und Country Potatoes\n5: Aktionsessen -
   Schweinshaxe mit Kümmelsauce und Kartoffelsalat Weißkrautsalat\nTagesan
  gebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Grü
  ne Bohnen\nBeilage 1: Country Potatoes\nDessert 1: Veganer Himbeerquark\nD
- essert 2: Birne-Quitte Mascarponecreme\nUpdated: 2025-10-19 07:15:26 CEST
+ essert 2: Birne-Quitte Mascarponecreme\nUpdated: 2025-10-20 07:17:00 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sojageschnetzeltes\, Fischstäbchen\, [Koeri]werk
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
-DTSTAMP:20251019T051526Z
+DTSTAMP:20251020T051700Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Sojageschnetzeltes indische Art - und Du
  ftreis\n5: Fischstäbchen - mit Remouladensauce und Kartoffelsalat\nTagesa
  ngebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Bun
  tes Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Duftreis\nDessert 1: Pud
- ding mit Mokka-Geschmack\nDessert 2: Pfirsichjoghurt\nUpdated: 2025-10-19 
- 07:15:26 CEST
+ ding mit Mokka-Geschmack\nDessert 2: Pfirsichjoghurt\nUpdated: 2025-10-20 
+ 07:17:00 CEST
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hirsecurry-Pfanne\, Vegane Maultaschen\, Allgäuer Käsespätzle\,
+  Hähnchenbrustfilet\, [Koeri]werk
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251104
+DTSTAMP:20251020T051700Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Hirsecurry-Pfanne mit Soja-Würzdip\n2: 
+ Vegane Maultaschen - mit Zwiebelschmelze und Kartoffelsalat\n3: Allgäuer 
+ Käsespätzle - mit Zwiebelschmelze\n4: Hähnchenbrustfilet - mit Curry-Ko
+ kos-Sauce und Reis\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette
+ \nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGem
+ üse: Tagesgemüse\nBeilage 1: Pommes frites\nBeilage 2: Petersilienkartof
+ feln\nBeilage 3: Kartoffelsalat\nStärkebeilage 4: Country Potatoes\nDesse
+ rt 1: Schwarz-weiße Schokoladenmousse\nDessert 2: Erdbeerjoghurt\nUpdated
+ : 2025-10-20 07:17:00 CEST
 END:VEVENT
 END:VCALENDAR
