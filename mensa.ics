@@ -5,128 +5,140 @@ BEGIN:VEVENT
 SUMMARY:Gnocchi\, 5 Mini\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Gnocchi - mit Tomatensauce und Rucolaga
  rnitur\n4: 5 Mini Nürnberger Bratwürste - mit Bratensauce mit Sauerkraut
   und Kartoffelpüree\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguet
  te\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGe
  müse: Fingermöhren\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelpüree
  \nDessert 1: Creme mit Stracciatella-Geschmack\nDessert 2: Kirschjoghurt\n
- Updated: 2025-11-09 06:15:31 CET
+ Updated: 2025-11-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blumenkohl-Kartoffel-Curry\, Börek mit\, Maishähnchenflügel\, [
  Koeri]werk
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Blumenkohl-Kartoffel-Curry - und Rei
  s\n2: Börek mit Spinatfüllung - und Bulgur-Gemüsesalat\n5: Maishähnche
  nflügel - mit Kräuterquark und Paprikareis\nTagesangebot 6: [Koeri]werk 
  Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Kaisergemüse\nBeilage 1:
   Reis\nBeilage 2: Pommes frites\nDessert 1: Mousse mit Limone-Joghurt-Gesc
- hmack\nDessert 2: Veganes Mousse au chocolat\nUpdated: 2025-11-09 06:15:31
+ hmack\nDessert 2: Veganes Mousse au chocolat\nUpdated: 2025-11-10 06:17:43
   CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bandnudeln\, Paniertes\, Maishähnchenflügel\, [Koeri]werk
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Bandnudeln mit Rucola-Sonnenblumen
  kernpesto\n4: Paniertes Schweineschnitzel - \,Preiselbeeren mit Rahmsauce 
  und Spätzle\n5: Maishähnchenflügel - mit Kräuterquark und Paprikareis\
  nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemü
  se: Ratatouille-Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Spätzle\nBe
  ilage 3: Reis\nDessert 1: Sahneschokopudding\nDessert 2: Veganer Früchteq
- uark\nUpdated: 2025-11-09 06:15:31 CET
+ uark\nUpdated: 2025-11-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkornreispfanne\, Hausgemachte\, Maishähnchenflügel\, [Koeri]
  werk
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251114
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Meditarane Gemüsesuppe\n1: Vollkornreispfanne mit Zucc
  hini\, Paprika und Auberginen\n2: Hausgemachte Lasagne mit Sojabolognese\n
  5: Maishähnchenflügel - mit Kräuterquark und Paprikareis\nTagesangebot 
  6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Rahmblumen
  kohl\nBeilage 1: Pommes frites\nBeilage 2: Reis\nDessert 1: Bayerische Cre
  me mit Zimtkirschen\nDessert 2: Veganer Pudding mit Vanille-Geschmack und 
- Himbeersauce\nUpdated: 2025-11-09 06:15:31 CET
+ Himbeersauce\nUpdated: 2025-11-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spätzle-Pilzpfanne\, Backfisch\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Spätzle-Pilzpfanne\n4: Backfi
  sch - mit Remouladensauce und Kartoffelsalat\n5: [Koeri]werk vegane Curryw
  urst mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst m
  it Steinofenbaguette\nGemüse: Buntes Gemüse\nBeilage 1: Pommes frites\nB
  eilage 2: Kartoffelsalat\nDessert 1: Kokosmilchreis mit Mango\nDessert 2: 
- Mousse mit Blutorangen-Geschmack\nUpdated: 2025-11-09 06:15:31 CET
+ Mousse mit Blutorangen-Geschmack\nUpdated: 2025-11-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spinatnudeln\, Maultaschen\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251118
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Nudelsuppe\n1: Spinatnudeln\n3: Maultaschen - mit Zwieb
  elsauce und Kartoffelsalat\n5: [Koeri]werk vegane Currywurst mit Steinofen
  baguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguet
  te\nGemüse: Broccoli\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelsalat
  \nDessert 1: Heidelbeerjoghurt\nDessert 2: Schokoladenpudding mit Birne\nU
- pdated: 2025-11-09 06:15:31 CET
+ pdated: 2025-11-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Penne Bolognese\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Veganes Gyros - mit veganem Tzatzi
  ki\, Paprikareis und Weißkrautsalat\n3: Penne Bolognese überbacken\n5: [
  Koeri]werk vegane Currywurst mit Steinofenbaguette\nTagesangebot 6: [Koeri
  ]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Grüne Bohnen\nBeil
  age 1: Reis\nBeilage 2: Pommes frites\nDessert 1: Veganer Pudding mit Vani
  lle-Geschmack und Himbeersauce\nDessert 2: Früchtemüsli\nUpdated: 2025-1
- 1-09 06:15:31 CET
+ 1-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indisches\, Falafel\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Meditarane Gemüsesuppe\n1: Indisches Auberginencurry m
  it Kichererbsenreis\n2: Falafel - mit Tomatenbulgur und veganem Hafer-Krä
  uterquark\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTagesan
  gebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Rata
  touille-Gemüse\nBeilage 1: Pommes frites\nDessert 1: Erdbeerjoghurt\nDess
- ert 2: Veganer Mangoquark\nUpdated: 2025-11-09 06:15:31 CET
+ ert 2: Veganer Mangoquark\nUpdated: 2025-11-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Allgäuer Käsespätzle\, [Koeri]werk\
  , [Koeri]werk
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Gemüse-Knusperfrikadelle - mi
  t veganem Hafer-Kräuterquark und Pommes frites\n3: Allgäuer Käsespätzl
  e - mit Zwiebelschmelze\n5: [Koeri]werk vegane Currywurst mit Steinofenbag
  uette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\
  nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nDessert 1: Veganer Him
- beerquark\nDessert 2: Sahneschokopudding\nUpdated: 2025-11-09 06:15:31 CET
+ beerquark\nDessert 2: Sahneschokopudding\nUpdated: 2025-11-10 06:17:43 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti\, Seelachs Nuggets\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
-DTSTAMP:20251109T051531Z
+DTSTAMP:20251110T051743Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Spaghetti aglio e olio\n4: See
  lachs Nuggets - mit Honig-Senf-Dip und Kartoffelsalat\n5: [Koeri]werk vega
  ne Currywurst mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Cur
  rywurst mit Steinofenbaguette\nGemüse: Buntes Gemüse\nBeilage 1: Pommes 
  frites\nDessert 1: Panna Cotta mit Erdbeermus\nDessert 2: Mousse mit Bluto
- rangen-Geschmack\nUpdated: 2025-11-09 06:15:31 CET
+ rangen-Geschmack\nUpdated: 2025-11-10 06:17:43 CET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gebratene\, Kohlroulade\, [Koeri]werk\, [Koeri]werk
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251125
+DTSTAMP:20251110T051743Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Gebratene Mienudeln mit Paprika\, Weißk
+ raut und Karotten\n3: Kohlroulade - mit Bratensauce und Kartoffelpüree\n5
+ : [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTagesangebot 6: [Ko
+ eri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Tagesgemüse\nBe
+ ilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\nDessert 1: Sahneschoko
+ pudding\nDessert 2: Pfirsichjoghurt\nUpdated: 2025-11-10 06:17:43 CET
 END:VEVENT
 END:VCALENDAR
