@@ -2,115 +2,103 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Spaghetti\, Seelachs Nuggets\, [Koeri]werk\, [Koeri]werk
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
-DTSTAMP:20251121T051717Z
-DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Spaghetti aglio e olio\n4: See
- lachs Nuggets - mit Honig-Senf-Dip und Kartoffelsalat\n5: [Koeri]werk vega
- ne Currywurst mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Cur
- rywurst mit Steinofenbaguette\nGemüse: Buntes Gemüse\nBeilage 1: Pommes 
- frites\nDessert 1: Panna Cotta mit Erdbeermus\nDessert 2: Mousse mit Bluto
- rangen-Geschmack\nUpdated: 2025-11-21 06:17:17 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gebratene\, Kohlroulade\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Gebratene Mienudeln mit Paprika\, Wei
  ßkraut und Karotten\n3: Kohlroulade - mit Bratensauce und Kartoffelpüree
  \n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTagesangebot 6: 
  [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: Karotten-Erbs
  en-Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\nDessert 
- 1: Sahneschokopudding\nDessert 2: Pfirsichjoghurt\nUpdated: 2025-11-21 06:
- 17:17 CET
+ 1: Sahneschokopudding\nDessert 2: Pfirsichjoghurt\nUpdated: 2025-11-22 06:
+ 15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Linsen\, Paniertes\, [Koeri]werk\, Maishähnchenflügel
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Linsen - und vegane Spätzle\n3: Lin
  sen - und Spätzle mit Saiten\n4: Paniertes Hokifilet - mit Limettenschman
  d und Thymiankartoffeln\n5: [Koeri]werk vegane Currywurst mit Steinofenbag
  uette\nTagesangebot 6: Maishähnchenflügel - mit Kräuterquark und Paprik
  areis\nGemüse: Grüne Bohnen\nBeilage 1: Pommes frites\nBeilage 2: Spätz
  le\nBeilage 3: Thymiankartoffeln\nStärkebeilage 4: Paprikareis\nDessert 1
- : Vanillejoghurt\nDessert 2: Veganes Früchtemüsli\nUpdated: 2025-11-21 0
- 6:17:17 CET
+ : Vanillejoghurt\nDessert 2: Veganes Früchtemüsli\nUpdated: 2025-11-22 0
+ 6:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Schweinegeschnetzeltes\, [Koeri]werk\, Maish
  ähnchenflügel
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Kichererbsen-Curry mit Duftreis\n4: Sch
  weinegeschnetzeltes mit Champignons - und Kartoffelrösti\n5: [Koeri]werk 
  vegane Currywurst mit Steinofenbaguette\nTagesangebot 6: Maishähnchenflü
  gel - mit Kräuterquark und Paprikareis\nGemüse: Buntes Gemüse\nBeilage 
  1: Pommes frites\nBeilage 2: Duftreis\nBeilage 3: Paprikareis\nDessert 1: 
  Veganer Heidelbeerquark\nDessert 2: Mandarinen Mascarpone Creme\nUpdated: 
- 2025-11-21 06:17:17 CET
+ 2025-11-22 06:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kartoffel-Gemüse-Pfanne\, Cevapcici\, [Koeri]werk\, Maishähnchen
  flügel
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Kartoffel-Gemüse-Pfanne\n3: C
  evapcici - mit Djuvec-Reis und Ajvar\n5: [Koeri]werk vegane Currywurst mit
   Steinofenbaguette\nTagesangebot 6: Maishähnchenflügel - mit Kräuterqua
  rk und Paprikareis\nGemüse: Blattspinat\nBeilage 1: Djuvec-Reis\nBeilage 
  2: Pommes frites\nBeilage 3: Paprikareis\nDessert 1: Veganes Mousse au cho
- colat\nDessert 2: Himbeerquark\nUpdated: 2025-11-21 06:17:17 CET
+ colat\nDessert 2: Himbeerquark\nUpdated: 2025-11-22 06:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Spaghetti\, Paniertes\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Tomaten-Spaghetti mit Erbsencreme 
  und Chiliflocken\n4: Paniertes Seelachsfilet - mit dänischer Remoulade un
  d Kartoffelsalat\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\n
  Tagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüs
  e: Kokos-Schlemmergemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffels
  alat\nDessert 1: Karamellpudding\nDessert 2: Creme mit Tiramisu-Geschmack\
- nUpdated: 2025-11-21 06:17:17 CET
+ nUpdated: 2025-11-22 06:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grünkernpfanne\, Fleischküchle\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Grünkernpfanne mit Blumenkohl-Bohnengem
  üse - und Möhren-Chili-Dip\n3: Fleischküchle - mit Baked Beans und Schw
  enkkartoffeln\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTag
  esangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse: 
  Broccoli\nBeilage 1: Pommes frites\nBeilage 2: Schwenkkartoffeln\nDessert 
  1: Aprikosenjoghurt\nDessert 2: Pudding mit Sahne Vanille-Geschmack\nUpdat
- ed: 2025-11-21 06:17:17 CET
+ ed: 2025-11-22 06:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkornspaghetti\, Korma Chicken\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Vollkornspaghetti mit Sojabolognese\n4: 
  Korma Chicken - und Duftreis\n5: [Koeri]werk vegane Currywurst mit Steinof
  enbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbagu
  ette\nGemüse: Grüne Bohnen\nBeilage 1: Duftreis\nBeilage 2: Pommes frite
  s\nDessert 1: Veganer Heidelbeerquark\nDessert 2: Sahneschokopudding\nUpda
- ted: 2025-11-21 06:17:17 CET
+ ted: 2025-11-22 06:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rotes-Linsen-Kartoffel-Curry\, Cordon bleu\, [Koeri]werk\, [Koeri]
  werk\, Halbes Grillhähnchen
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251204
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Rotes-Linsen-Kartoffel-Curry mit Rosinen
  \n4: Cordon bleu vom Schwein - mit Bratensauce und Pommes frites\n5: [Koer
  i]werk vegane Currywurst mit Steinofenbaguette\nTagesangebot 6: [Koeri]wer
@@ -118,32 +106,32 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Rotes-Linsen-Kartoffel-Curry mit Rosinen
  nchen - mit Sweet Chili Dip und Pommes frites\nGemüse: Ratatouille-Gemüs
  e\nBeilage 1: Pommes frites\nBeilage 2: Salzkartoffeln\nBeilage 3: Pommes 
  frites\nDessert 1: Vegane Himbeercreme\nDessert 2: Käsesahne Creme\nUpdat
- ed: 2025-11-21 06:17:17 CET
+ ed: 2025-11-22 06:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkorn Penne\, 2 Crispy\, Allgäuer Käsespätzle\, [Koeri]werk\
  , [Koeri]werk
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Vollkorn Penne mit mediterranem Gemüse\
  n3: 2 Crispy Drumsticks - mit Kräuterquark Paprikareis\n4: Allgäuer Käs
  espätzle - mit Zwiebelschmelze\n5: [Koeri]werk vegane Currywurst mit Stei
  nofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenb
  aguette\nGemüse: Rahmblumenkohl\nBeilage 1: Reis\nDessert 1: Kokosmilchre
- is mit Mango\nDessert 2: Kirschjoghurt\nUpdated: 2025-11-21 06:17:17 CET
+ is mit Mango\nDessert 2: Kirschjoghurt\nUpdated: 2025-11-22 06:15:27 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Paniertes\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251121T051717Z
+DTSTAMP:20251122T051527Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Gemüse-Knusperfrikadelle - mit veganer 
  Kräutercremesauce und Reis\n4: Paniertes Schollenfilet - mit Remouladensa
  uce und Kartoffelsalat\n5: [Koeri]werk vegane Currywurst mit Steinofenbagu
  ette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\n
  Gemüse: Buntes Gemüse\nBeilage 1: Kartoffelsalat\nBeilage 2: Pommes frit
  es\nBeilage 3: Reis\nDessert 1: Rote Grütze - mit Dessertsauce Vanille\nD
- essert 2: Ananasquark\nUpdated: 2025-11-21 06:17:17 CET
+ essert 2: Ananasquark\nUpdated: 2025-11-22 06:15:27 CET
 END:VEVENT
 END:VCALENDAR
