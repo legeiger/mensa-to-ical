@@ -5,33 +5,33 @@ BEGIN:VEVENT
 SUMMARY:Grünkernpfanne\, Fleischküchle\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251202
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Grünkernpfanne mit Blumenkohl-Bohnenge
  müse - und Möhren-Chili-Dip\n3: Fleischküchle - mit Baked Beans und Sch
  wenkkartoffeln\n5: [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTa
  gesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofenbaguette\nGemüse:
   Broccoli\nBeilage 1: Pommes frites\nBeilage 2: Schwenkkartoffeln\nDessert
   1: Aprikosenjoghurt\nDessert 2: Pudding mit Sahne Vanille-Geschmack\nUpda
- ted: 2025-11-30 06:16:25 CET
+ ted: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkornspaghetti\, Korma Chicken\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Vollkornspaghetti mit Sojabolognes
  e\n4: Korma Chicken - und Duftreis\n5: [Koeri]werk vegane Currywurst mit S
  teinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinof
  enbaguette\nGemüse: Grüne Bohnen\nBeilage 1: Duftreis\nBeilage 2: Pommes
   frites\nDessert 1: Veganer Heidelbeerquark\nDessert 2: Sahneschokopudding
- \nUpdated: 2025-11-30 06:16:25 CET
+ \nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rotes-Linsen-Kartoffel-Curry\, Cordon bleu\, [Koeri]werk\, [Koeri]
  werk\, Halbes Grillhähnchen
 DTSTART;VALUE=DATE:20251203
 DTEND;VALUE=DATE:20251204
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Bunte Bohnensuppe\n1: Rotes-Linsen-Kartoffel-Curry mit 
  Rosinen\n4: Cordon bleu vom Schwein - mit Bratensauce und Pommes frites\n5
  : [Koeri]werk vegane Currywurst mit Steinofenbaguette\nTagesangebot 6: [Ko
@@ -39,89 +39,99 @@ DESCRIPTION:Suppe: Bunte Bohnensuppe\n1: Rotes-Linsen-Kartoffel-Curry mit
  illhähnchen - mit Sweet Chili Dip und Pommes frites\nGemüse: Ratatouille
  -Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Salzkartoffeln\nBeilage 3: 
  Pommes frites\nDessert 1: Vegane Himbeercreme\nDessert 2: Käsesahne Creme
- \nUpdated: 2025-11-30 06:16:25 CET
+ \nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkorn Penne\, 2 Crispy\, Allgäuer Käsespätzle\, [Koeri]werk\
  , [Koeri]werk
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251205
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Vollkorn Penne mit mediterrane
  m Gemüse\n3: 2 Crispy Drumsticks - mit Kräuterquark Paprikareis\n4: Allg
  äuer Käsespätzle - mit Zwiebelschmelze\n5: [Koeri]werk vegane Currywurs
  t mit Steinofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit 
  Steinofenbaguette\nGemüse: Rahmblumenkohl\nBeilage 1: Reis\nDessert 1: Ko
- kosmilchreis mit Mango\nDessert 2: Kirschjoghurt\nUpdated: 2025-11-30 06:1
- 6:25 CET
+ kosmilchreis mit Mango\nDessert 2: Kirschjoghurt\nUpdated: 2025-12-01 06:2
+ 5:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Paniertes\, [Koeri]werk\, [Koeri]werk
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Gemüse-Knusperfrikadelle - mi
  t veganer Kräutercremesauce und Reis\n4: Paniertes Schollenfilet - mit Re
  mouladensauce und Kartoffelsalat\n5: [Koeri]werk vegane Currywurst mit Ste
  inofenbaguette\nTagesangebot 6: [Koeri]werk Kalbs-Currywurst mit Steinofen
  baguette\nGemüse: Buntes Gemüse\nBeilage 1: Kartoffelsalat\nBeilage 2: P
  ommes frites\nBeilage 3: Reis\nDessert 1: Rote Grütze - mit Dessertsauce 
- Vanille\nDessert 2: Ananasquark\nUpdated: 2025-11-30 06:16:25 CET
+ Vanille\nDessert 2: Ananasquark\nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne mit\, Köttbullar\, Frittierte
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251209
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Penne mit Champignons und Cocktailto
  maten\n3: Köttbullar - mit Rahmsauce \,Preiselbeeren und Salzkartoffeln\n
  4: Frittierte Tintenfischringe mit Zitrone\, - Knoblauch-Dip und Pommes fr
  ites\nGemüse: Grüne Bohnen\nBeilage 1: Pommes frites\nBeilage 2: Petersi
  lienkartoffeln\nDessert 1: Kirschjoghurt\nDessert 2: Pudding mit Vanille-G
- eschmack\nUpdated: 2025-11-30 06:16:25 CET
+ eschmack\nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegane Paella\, Sojageschnetzeltes\, Seelachsfilet
 DTSTART;VALUE=DATE:20251209
 DTEND;VALUE=DATE:20251210
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Pilzcremesuppe\n1: Vegane Paella\n2: Sojageschnetzeltes
   Szechuan - mit Mienudeln\n4: Seelachsfilet auf mediterranem Zartweizen mi
  t Zucchini\, Oliven und getrockneten Tomaten\nGemüse: Buntes Gemüse\nBei
  lage 1: Pommes frites\nDessert 1: Mousse mit Limone-Joghurt-Geschmack\nDes
- sert 2: Veganer Himbeerquark\nUpdated: 2025-11-30 06:16:25 CET
+ sert 2: Veganer Himbeerquark\nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kürbis-Karotten-Gnocchi-Ragout\, Spaghetti
 DTSTART;VALUE=DATE:20251210
 DTEND;VALUE=DATE:20251211
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Kürbis-Karotten-Gnocchi-Ragout\n3
  : Spaghetti Bolognese mit Reibekäse\nGemüse: Rahmblumenkohl\nBeilage 1: 
  Pommes frites\nBeilage 2: Kartoffelpüree\nDessert 1: Veganer Ananas-Kokos
- -Quark\nDessert 2: Sahneschokopudding\nUpdated: 2025-11-30 06:16:25 CET
+ -Quark\nDessert 2: Sahneschokopudding\nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schupfnudel-Sauerkraut-Pfanne\, Omelette\, Schweinebraten
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251212
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Karottencremesuppe\n1: Schupfnudel-Sauerkraut-Pfanne\n2
  : Omelette - mit Blattspinat und Salzkartoffeln\n3: Schweinebraten - mit R
  ahmsauce und Spätzle\nGemüse: Grüne Bohnen\nBeilage 1: Pommes frites\nB
  eilage 2: Spätzle\nDessert 1: Veganer Grießpudding mit Pfirsich\nDessert
-  2: Waldbeerenquark\nUpdated: 2025-11-30 06:16:25 CET
+  2: Waldbeerenquark\nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reispfanne\, Rote Wurst\, Paniertes
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
-DTSTAMP:20251130T051625Z
+DTSTAMP:20251201T052516Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Reispfanne mit Naturreis und Weißkraut
  -\,Paprikagemüse\n3: Rote Wurst - mit Pusztasauce und Pommes frites\n4: P
  aniertes Seelachsfilet - mit Remouladensauce und Kartoffelsalat\nGemüse: 
  Kokos-Schlemmergemüse\nBeilage 1: Kartoffelsalat\nBeilage 2: Pommes frite
  s\nDessert 1: Früchtequark\nDessert 2: Mousse mit Heidelbeer-Geschmack\nU
- pdated: 2025-11-30 06:16:25 CET
+ pdated: 2025-12-01 06:25:16 CET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chili sin\, Bratwurst
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+DTSTAMP:20251201T052516Z
+DESCRIPTION:Suppe: Nudelsuppe\n1: Chili sin Carne - und Reis\n3: Bratwurst
+  - mit Bratensauce und Kartoffelpüree\nGemüse: Rahmblumenkohl\nBeilage 1
+ : Pommes frites\nBeilage 2: Kartoffelpüree\nBeilage 3: Reis\nDessert 1: H
+ imbeerquark\nDessert 2: Früchtemüsli\nUpdated: 2025-12-01 06:25:16 CET
 END:VEVENT
 END:VCALENDAR
