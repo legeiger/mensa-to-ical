@@ -2,59 +2,48 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Chili sin\, Bratwurst\, Gebackene
-DTSTART;VALUE=DATE:20251215
-DTEND;VALUE=DATE:20251216
-DTSTAMP:20251215T052236Z
-DESCRIPTION:Suppe: Nudelsuppe\n1: Chili sin Carne - und Reis\n3: Bratwurst
-  - mit Bratensauce und Kartoffelpüree\n4: Gebackene Champignonköpfe - mi
- t Remouladensauce und Salat\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes fr
- ites\nBeilage 2: Kartoffelpüree\nBeilage 3: Reis\nDessert 1: Himbeerquark
- \nDessert 2: Früchtemüsli\nUpdated: 2025-12-15 06:22:36 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Kartoffelpuffer\, Schweinegulasch
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
-DTSTAMP:20251215T052236Z
+DTSTAMP:20251216T051947Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Kichererbsen-Curry mit Duftrei
  s\n2: Kartoffelpuffer - und Apfelmus\n4: Schweinegulasch mit Paprika - und
-  Spätzle\nGemüse: Karotten-Erbsen-Gemüse\nBeilage 1: Duftreis\nBeilage 
- 2: Pommes frites\nBeilage 3: Spätzle\nDessert 1: Haferquark mit Honig und
-  Mandeln\nDessert 2: Pudding mit Vanille-Geschmack\nUpdated: 2025-12-15 06
- :22:36 CET
+  Spätzle\nGemüse: Broccoli\nBeilage 1: Duftreis\nBeilage 2: Pommes frite
+ s\nBeilage 3: Spätzle\nDessert 1: Quark mit Honig und Mandeln\nDessert 2:
+  Pudding mit Vanille-Geschmack\nUpdated: 2025-12-16 06:19:47 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Veganes Schnitzel\, Paniertes
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251218
-DTSTAMP:20251215T052236Z
+DTSTAMP:20251216T051947Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Veganes Gyros - mit veganem Tzatzi
  ki\, Paprikareis und Weißkrautsalat\n2: Veganes Schnitzel - mit Bratensau
  ce und Pommes frites\n4: Paniertes Schweineschnitzel - mit Bratensauce und
-  Pommes frites\nBeilage 1: Paprikareis\nBeilage 2: Pommes frites\nDessert 
- 1: Veganer Pudding mit Vanille-Geschmack und Himbeersauce\nDessert 2: Wei
- ßes Mousse au chocolat\nUpdated: 2025-12-15 06:22:36 CET
+  Pommes frites\nGemüse: Karotten-Erbsen-Gemüse\nBeilage 1: Paprikareis\n
+ Beilage 2: Pommes frites\nBeilage 3: Kartoffelsalat\nDessert 1: Weißes Mo
+ usse au chocolat\nDessert 2: Waldbeerenquark\nUpdated: 2025-12-16 06:19:47
+  CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Hausgemachte\, Linsen
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
-DTSTAMP:20251215T052236Z
+DTSTAMP:20251216T051947Z
 DESCRIPTION:Suppe: Pilzcremesuppe\n1: Linsen - und vegane Spätzle\n2: Hau
  sgemachte Lasagne mit Sojabolognese\n3: Linsen - und Spätzle mit Saiten\n
  Gemüse: Kokos-Schlemmergemüse\nBeilage 1: Pommes frites\nBeilage 2: Spä
  tzle\nDessert 1: Mandarinenquark\nDessert 2: Veganer Schokopudding mit Kir
- schen\nUpdated: 2025-12-15 06:22:36 CET
+ schen\nUpdated: 2025-12-16 06:19:47 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Pilaw\, Schlemmerfilet
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
-DTSTAMP:20251215T052236Z
+DTSTAMP:20251216T051947Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n4: Schl
  emmerfilet à la bordelaise - mit Dillsauce und Vollkornreis\nGemüse: Fin
  germöhren\nBeilage 1: Pommes frites\nBeilage 2: Vollkornreis\nDessert 1: 
- Panna Cotta mit Erdbeermus\nUpdated: 2025-12-15 06:22:36 CET
+ Panna Cotta mit Erdbeermus\nUpdated: 2025-12-16 06:19:47 CET
 END:VEVENT
 END:VCALENDAR
