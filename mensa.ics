@@ -2,24 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Linsen\, Hausgemachte\, Linsen
-DTSTART;VALUE=DATE:20251218
-DTEND;VALUE=DATE:20251219
-DTSTAMP:20251218T051936Z
-DESCRIPTION:Suppe: Pilzcremesuppe\n1: Linsen - und vegane Spätzle\n2: Hau
- sgemachte Lasagne mit Sojabolognese\n3: Linsen - und Spätzle mit Saiten\n
- Gemüse: Kokos-Schlemmergemüse\nBeilage 1: Pommes frites\nBeilage 2: Spä
- tzle\nDessert 1: Mandarinenquark\nDessert 2: Veganer Schokopudding mit Kir
- schen\nUpdated: 2025-12-18 06:19:36 CET
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tomaten-Pilaw\, Schlemmerfilet
+SUMMARY:Tomaten-Pilaw\, Veganes Schnitzel\, Schlemmerfilet
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
-DTSTAMP:20251218T051936Z
-DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n4: Schl
- emmerfilet à la bordelaise - mit Dillsauce und Vollkornreis\nGemüse: Fin
- germöhren\nBeilage 1: Pommes frites\nBeilage 2: Vollkornreis\nDessert 1: 
- Panna Cotta mit Erdbeermus\nUpdated: 2025-12-18 06:19:36 CET
+DTSTAMP:20251219T051910Z
+DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n2: Vega
+ nes Schnitzel - mit Bratensauce und Spätzle\n4: Schlemmerfilet à la bord
+ elaise - mit Dillsauce und Vollkornreis\nGemüse: Fingermöhren\nBeilage 1
+ : Pommes frites\nBeilage 2: Vollkornreis\nDessert 1: Panna Cotta mit Erdbe
+ ermus\nUpdated: 2025-12-19 06:19:10 CET
 END:VEVENT
 END:VCALENDAR
