@@ -2,14 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Tomaten-Pilaw\, Veganes Schnitzel\, Schlemmerfilet
+SUMMARY:Tomaten-Pilaw\, Vegetarisches\, Schlemmerfilet
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
-DTSTAMP:20251219T051910Z
-DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n2: Vega
- nes Schnitzel - mit Bratensauce und Spätzle\n4: Schlemmerfilet à la bord
- elaise - mit Dillsauce und Vollkornreis\nGemüse: Fingermöhren\nBeilage 1
- : Pommes frites\nBeilage 2: Vollkornreis\nDessert 1: Panna Cotta mit Erdbe
- ermus\nUpdated: 2025-12-19 06:19:10 CET
+DTSTAMP:20251220T051716Z
+DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\n2: Vege
+ tarisches Schnitzel - mit Bratensauce und Spätzle\n4: Schlemmerfilet à l
+ a bordelaise - mit Dillsauce und Vollkornreis\nGemüse: Fingermöhren\nBei
+ lage 1: Pommes frites\nBeilage 2: Vollkornreis\nDessert 1: Früchtequark\n
+ Updated: 2025-12-20 06:17:16 CET
 END:VEVENT
 END:VCALENDAR
