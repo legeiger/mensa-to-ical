@@ -5,35 +5,35 @@ BEGIN:VEVENT
 SUMMARY:Geschwenkte\, Gemüse-Frikadelle\, Hähnchenbrustfilet
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
-DTSTAMP:20251227T051836Z
+DTSTAMP:20251228T052058Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Geschwenkte Risoleekartoffeln mit grü
  nen Bohnen und Paprika Dip\n2: Gemüse-Frikadelle - mit Mango Curry Salsa 
  und Country Potatoes\n4: Hähnchenbrustfilet Piccata Milanese - mit Tomate
  n-Spaghetti\nGemüse: Fingermöhren\nBeilage 1: Country Potatoes\nBeilage 
  2: Reis\nDessert 1: Vanillejoghurt\nDessert 2: Veganer Ananas-Kokos-Quark\
- nUpdated: 2025-12-27 06:18:36 CET
+ nUpdated: 2025-12-28 06:20:58 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti\, Pfannkuchen\, Hackfleischröllchen
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
-DTSTAMP:20251227T051836Z
+DTSTAMP:20251228T052058Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Spaghetti - mit Napolisauce\n2: Pfan
  nkuchen\n3: Hackfleischröllchen - mit Pfefferrahmsauce und Spirelli\nGem
  üse: Bohnen-Paprika-Gemüse\nBeilage 1: Pommes frites\nDessert 1: Birne-Q
  uitte Mascarponecreme\nDessert 2: Veganer Himbeerquark\nDessert 3: Kräute
- rnudeln\nUpdated: 2025-12-27 06:18:36 CET
+ rnudeln\nUpdated: 2025-12-28 06:20:58 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sojageschnetzeltes\, Kartoffelgulasch\, Fischstäbchen
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
-DTSTAMP:20251227T051836Z
+DTSTAMP:20251228T052058Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Sojageschnetzeltes indische Art - 
  und Duftreis\n2: Kartoffelgulasch - mit Soja-Kräuter Dip\n3: Fischstäbch
  en - und Kartoffelsalat mit Remouladensauce\nGemüse: Blattspinat\nBeilage
   1: Duftreis\nBeilage 2: Pommes frites\nBeilage 3: Kartoffelsalat\nDessert
   1: Pudding mit Mokka-Geschmack\nDessert 2: Pfirsichjoghurt\nUpdated: 2025
- -12-27 06:18:36 CET
+ -12-28 06:20:58 CET
 END:VEVENT
 END:VCALENDAR
