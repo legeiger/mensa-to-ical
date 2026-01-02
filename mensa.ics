@@ -5,81 +5,92 @@ BEGIN:VEVENT
 SUMMARY:Geschwenkte\, Gemüse-Frikadelle\, Hähnchenbrustfilet
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
-DTSTAMP:20260101T052428Z
+DTSTAMP:20260102T052306Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Geschwenkte Risoleekartoffeln mit grü
  nen Bohnen und Paprika Dip\n2: Gemüse-Frikadelle - mit Mango Curry Salsa 
  und Country Potatoes\n4: Hähnchenbrustfilet Piccata Milanese - mit Tomate
  n-Spaghetti\nGemüse: Fingermöhren\nBeilage 1: Country Potatoes\nBeilage 
  2: Reis\nDessert 1: Vanillejoghurt\nDessert 2: Veganer Ananas-Kokos-Quark\
- nUpdated: 2026-01-01 06:24:28 CET
+ nUpdated: 2026-01-02 06:23:06 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti\, Pfannkuchen\, Hackfleischröllchen
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
-DTSTAMP:20260101T052428Z
+DTSTAMP:20260102T052306Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Spaghetti - mit Napolisauce\n2: Pfan
  nkuchen\n3: Hackfleischröllchen - mit Pfefferrahmsauce und Spirelli\nGem
  üse: Bohnen-Paprika-Gemüse\nBeilage 1: Pommes frites\nDessert 1: Birne-Q
  uitte Mascarponecreme\nDessert 2: Veganer Himbeerquark\nDessert 3: Kräute
- rnudeln\nUpdated: 2026-01-01 06:24:28 CET
+ rnudeln\nUpdated: 2026-01-02 06:23:06 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sojageschnetzeltes\, Kartoffelgulasch\, Fischstäbchen
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
-DTSTAMP:20260101T052428Z
+DTSTAMP:20260102T052306Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Sojageschnetzeltes indische Art - 
  und Duftreis\n2: Kartoffelgulasch - mit Soja-Kräuter Dip\n3: Fischstäbch
  en - und Kartoffelsalat mit Remouladensauce\nGemüse: Blattspinat\nBeilage
   1: Duftreis\nBeilage 2: Pommes frites\nBeilage 3: Kartoffelsalat\nDessert
   1: Pudding mit Mokka-Geschmack\nDessert 2: Pfirsichjoghurt\nUpdated: 2026
- -01-01 06:24:28 CET
+ -01-02 06:23:06 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hirsecurry-Pfanne\, Vegane Maultaschen\, Hähnchenbrustfilet
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
-DTSTAMP:20260101T052428Z
+DTSTAMP:20260102T052306Z
 DESCRIPTION:Suppe: Erbsencremesuppe\n1: Hirsecurry-Pfanne mit Soja-Würzdi
  p\n2: Vegane Maultaschen - mit Zwiebelschmelze und Kartoffelsalat\n4: Häh
  nchenbrustfilet - mit Curry-Kokos-Sauce und Reis\nGemüse: Karotten-Erbsen
  -Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Petersilienkartoffeln\nBeil
  age 3: Kartoffelsalat\nStärkebeilage 4: Reis\nDessert 1: Schwarz-weiße S
- chokoladenmousse\nDessert 2: Erdbeerjoghurt\nUpdated: 2026-01-01 06:24:28 
+ chokoladenmousse\nDessert 2: Erdbeerjoghurt\nUpdated: 2026-01-02 06:23:06 
  CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chili sin\, Schweinebraten\, Ofenkartoffel
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20260101T052428Z
+DTSTAMP:20260102T052306Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Chili sin Carne - und Reis\n3: Schwein
  ebraten - mit Pilzsauce und Spätzle\n4: Ofenkartoffel mit veganem Sour Cr
  eme Dip - und Salat\nGemüse: Grüne Bohnen\nBeilage 1: Reis\nBeilage 2: S
  pätzle\nBeilage 3: Pommes frites\nDessert 1: Käsesahne Creme\nDessert 2:
-  Veganer Grießpudding mit Pfirsich\nUpdated: 2026-01-01 06:24:28 CET
+  Veganer Grießpudding mit Pfirsich\nUpdated: 2026-01-02 06:23:06 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne\, Milchreis\, Hähnchen-Döner
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20260101T052428Z
+DTSTAMP:20260102T052306Z
 DESCRIPTION:1: Penne - an Tomatensugo mit Kräutern\n2: Milchreis - und Ap
  felmus und Zimt Zucker\n4: Hähnchen-Döner - mit Joghurt-Knoblauch-Dip\nG
  emüse: Buntes Gemüse\nBeilage 1: Penne\nBeilage 2: Pommes frites\nDesser
  t 1: Veganer Hafer Schokopudding\nDessert 2: Buttermilchdessert Mango\nUpd
- ated: 2026-01-01 06:24:28 CET
+ ated: 2026-01-02 06:23:06 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grünkernragout\, 2 Crispy
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
-DTSTAMP:20260101T052428Z
+DTSTAMP:20260102T052306Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Grünkernragout mit Kichererbs
  en - und Dinkelbrötchen\n3: 2 Crispy Drumsticks - mit Orangensauce Gemüs
  e-Zartweizen\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2
  : Reis\nBeilage 3: Risoleekartoffeln\nDessert 1: Vegane Waldbeerencreme\nD
- essert 2: Creme mit Tiramisu-Geschmack\nUpdated: 2026-01-01 06:24:28 CET
+ essert 2: Creme mit Tiramisu-Geschmack\nUpdated: 2026-01-02 06:23:06 CET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaghetti\, Fischstäbchen\, Kürbis Mac´n
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+DTSTAMP:20260102T052306Z
+DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Spaghetti mit Sojabolognese\n3
+ : Fischstäbchen - mit Remouladensauce und Salzkartoffeln\n4: Kürbis Mac
+ ´n Cheese\nGemüse: Kokos-Schlemmergemüse\nBeilage 1: Pommes frites\nBei
+ lage 2: Salzkartoffeln\nDessert 1: Nuss-Nougat-Pudding\nDessert 2: Mousse 
+ mit Mango- Joghurt- Geschmack\nUpdated: 2026-01-02 06:23:06 CET
 END:VEVENT
 END:VCALENDAR
