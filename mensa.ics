@@ -2,136 +2,131 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Spaghetti\, Pfannkuchen\, Hackfleischröllchen
-DTSTART;VALUE=DATE:20260108
-DTEND;VALUE=DATE:20260109
-DTSTAMP:20260108T052144Z
-DESCRIPTION:Suppe: Kürbissuppe\n1: Spaghetti - mit Napolisauce\n2: Pfannk
- uchen - mit Kaisergemüse in Rahm\n3: Hackfleischröllchen - mit Pfefferra
- hmsauce und Spirelli\nGemüse: Bohnen-Paprika-Gemüse\nBeilage 1: Pommes f
- rites\nDessert 1: Birne-Quitte Mascarponecreme\nDessert 2: Veganer Himbeer
- quark\nDessert 3: Kräuternudeln\nUpdated: 2026-01-08 06:21:44 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sojageschnetzeltes\, Kartoffelgulasch\, Fischstäbchen
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
-DTSTAMP:20260108T052144Z
+DTSTAMP:20260109T052239Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Sojageschnetzeltes indische Art - 
  und Duftreis\n2: Kartoffelgulasch - mit Soja-Kräuter Dip\n3: Fischstäbch
  en - und Kartoffelsalat mit Remouladensauce\nGemüse: Blattspinat\nBeilage
   1: Duftreis\nBeilage 2: Pommes frites\nBeilage 3: Kartoffelsalat\nDessert
-  1: Pudding mit Mokka-Geschmack\nDessert 2: Pfirsichjoghurt\nUpdated: 2026
- -01-08 06:21:44 CET
+  1: Pudding mit Mokka-Geschmack\nDessert 2: Pfirsichjoghurt\nDessert 3: Pu
+ dding mit Vanille-Geschmack\nUpdated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hirsecurry-Pfanne\, Vegane Maultaschen\, Hähnchenbrustfilet
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
-DTSTAMP:20260108T052144Z
-DESCRIPTION:Suppe: Erbsencremesuppe\n1: Hirsecurry-Pfanne mit Soja-Würzdi
- p\n2: Vegane Maultaschen - mit Zwiebelschmelze und Kartoffelsalat\n4: Häh
- nchenbrustfilet - mit Curry-Kokos-Sauce und Reis\nGemüse: Karotten-Erbsen
- -Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Petersilienkartoffeln\nBeil
- age 3: Kartoffelsalat\nStärkebeilage 4: Reis\nDessert 1: Schwarz-weiße S
- chokoladenmousse\nDessert 2: Erdbeerjoghurt\nUpdated: 2026-01-08 06:21:44 
- CET
+DTSTAMP:20260109T052239Z
+DESCRIPTION:Suppe: Flädlesuppe\n1: Hirsecurry-Pfanne mit Soja-Würzdip\n2
+ : Vegane Maultaschen - mit Zwiebelschmelze und Kartoffelsalat\n4: Hähnche
+ nbrustfilet - mit Curry-Kokos-Sauce und Reis\nGemüse: Karotten-Erbsen-Gem
+ üse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelsalat\nBeilage 3: Reis
+ \nDessert 1: Schwarz-weiße Schokoladenmousse\nDessert 2: Erdbeerjoghurt\n
+ Updated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chili sin\, Schweinebraten\, Ofenkartoffel
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
-DTSTAMP:20260108T052144Z
+DTSTAMP:20260109T052239Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Chili sin Carne - und Reis\n3: Schwein
  ebraten - mit Pilzsauce und Spätzle\n4: Ofenkartoffel mit veganem Sour Cr
  eme Dip - und Salat\nGemüse: Grüne Bohnen\nBeilage 1: Reis\nBeilage 2: S
  pätzle\nBeilage 3: Pommes frites\nDessert 1: Käsesahne Creme\nDessert 2:
-  Veganer Grießpudding mit Pfirsich\nUpdated: 2026-01-08 06:21:44 CET
+  Veganer Grießpudding mit Pfirsich\nUpdated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne\, Milchreis\, Hähnchen-Döner
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
-DTSTAMP:20260108T052144Z
+DTSTAMP:20260109T052239Z
 DESCRIPTION:1: Penne - an Tomatensugo mit Kräutern\n2: Milchreis - und Ap
  felmus und Zimt Zucker\n4: Hähnchen-Döner - mit Joghurt-Knoblauch-Dip\nG
  emüse: Buntes Gemüse\nBeilage 1: Penne\nBeilage 2: Pommes frites\nDesser
  t 1: Veganer Hafer Schokopudding\nDessert 2: Buttermilchdessert Mango\nUpd
- ated: 2026-01-08 06:21:44 CET
+ ated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grünkernragout\, 2 Crispy
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
-DTSTAMP:20260108T052144Z
+DTSTAMP:20260109T052239Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Grünkernragout mit Kichererbs
  en - und Dinkelbrötchen\n3: 2 Crispy Drumsticks - mit Orangensauce Gemüs
  e-Zartweizen\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2
  : Reis\nBeilage 3: Risoleekartoffeln\nDessert 1: Vegane Waldbeerencreme\nD
- essert 2: Creme mit Tiramisu-Geschmack\nUpdated: 2026-01-08 06:21:44 CET
+ essert 2: Creme mit Tiramisu-Geschmack\nUpdated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti\, Fischstäbchen\, Kürbis Mac´n
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
-DTSTAMP:20260108T052144Z
+DTSTAMP:20260109T052239Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Spaghetti mit Sojabolognese\n3
  : Fischstäbchen - mit Remouladensauce und Salzkartoffeln\n4: Kürbis Mac
  ´n Cheese\nGemüse: Kokos-Schlemmergemüse\nBeilage 1: Pommes frites\nBei
  lage 2: Salzkartoffeln\nDessert 1: Nuss-Nougat-Pudding\nDessert 2: Mousse 
- mit Mango- Joghurt- Geschmack\nUpdated: 2026-01-08 06:21:44 CET
+ mit Mango- Joghurt- Geschmack\nUpdated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gnocchi\, Soja-Gemüse-Geschnetzeltes\, Hähnchengyros\, 5 Mini
+SUMMARY:Gnocchi\, Hähnchengyros\, 5 Mini
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
-DTSTAMP:20260108T052144Z
-DESCRIPTION:Suppe: Tagessuppe\n1: Gnocchi - mit Tomatensauce und Rucolagar
- nitur\n2: Soja-Gemüse-Geschnetzeltes - und Duftreis\n3: Hähnchengyros - 
- mit Tzatziki und Pommes frites\n4: 5 Mini Nürnberger Bratwürste - mit Br
- atensauce mit Sauerkraut und Kartoffelpüree\nGemüse: Tagesgemüse\nBeila
- ge 1: Pommes frites\nBeilage 2: Kartoffelpüree\nBeilage 3: Duftreis\nStä
- rkebeilage 4: Country Potatoes\nDessert 1: Creme mit Stracciatella-Geschma
- ck\nDessert 2: Kirschjoghurt\nUpdated: 2026-01-08 06:21:44 CET
+DTSTAMP:20260109T052239Z
+DESCRIPTION:Suppe: Nudelsuppe\n1: Gnocchi - mit Tomatensauce und Rucolagar
+ nitur\n3: Hähnchengyros - mit Tzatziki und Pommes frites\n4: 5 Mini Nürn
+ berger Bratwürste - mit Bratensauce mit Sauerkraut und Kartoffelpüree\nG
+ emüse: Buntes Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelpür
+ ee\nDessert 1: Creme mit Stracciatella-Geschmack\nDessert 2: Kirschjoghurt
+ \nUpdated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blumenkohl-Kartoffel-Curry\, Börek mit\, Gebackener\, Seelachsfil
- et
+SUMMARY:Blumenkohl-Kartoffel-Curry\, Börek mit\, Seelachsfilet
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20260108T052144Z
-DESCRIPTION:Suppe: Tagessuppe\n1: Blumenkohl-Kartoffel-Curry - und Reis\n2
- : Börek mit Spinatfüllung - und Bulgur-Gemüsesalat\n3: Gebackener Fleis
- chkäse - an Bratensauce mit grobem Senf und Kartoffelsalat\n4: Seelachsfi
- let auf mediterranem Gemüsebett - und Reis\nGemüse: Tagesgemüse\nBeilag
- e 1: Reis\nBeilage 2: Kartoffelsalat\nBeilage 3: Pommes frites\nStärkebei
- lage 4: Country Potatoes\nDessert 1: Mousse mit Limone-Joghurt-Geschmack\n
- Dessert 2: Veganes Mousse au chocolat\nUpdated: 2026-01-08 06:21:44 CET
+DTSTAMP:20260109T052239Z
+DESCRIPTION:Suppe: Kartoffelsuppe\n1: Blumenkohl-Kartoffel-Curry - und Rei
+ s\n2: Börek mit Spinatfüllung - und Bulgur-Gemüsesalat\n4: Seelachsfile
+ t auf mediterranem Gemüsebett - und Reis\nGemüse: Ratatouille-Gemüse\nB
+ eilage 1: Reis\nBeilage 2: Pommes frites\nDessert 1: Mousse mit Limone-Jog
+ hurt-Geschmack\nDessert 2: Veganes Mousse au chocolat\nUpdated: 2026-01-09
+  06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bandnudeln\, Mini-Frühlingsrollen\, Hähnchenkeule\, Paniertes
+SUMMARY:Bandnudeln\, Hähnchenkeule\, Paniertes
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260108T052144Z
-DESCRIPTION:Suppe: Tagessuppe\n1: Bandnudeln mit Rucola-Sonnenblumenkernpe
- sto\n2: Mini-Frühlingsrollen mit fruchtiger Currysauce - und Duftreis\n3:
-  Hähnchenkeule - an Schaschliksauce mit Schwenkkartoffeln\n4: Paniertes S
- chweineschnitzel - \,Preiselbeeren mit Rahmsauce und Spätzle\nGemüse: Ta
- gesgemüse\nBeilage 1: Pommes frites\nBeilage 2: Schwenkkartoffeln\nBeilag
- e 3: Spätzle\nStärkebeilage 4: Country Potatoes\nDessert 1: Veganer Frü
- chtequark\nDessert 2: Sahneschokopudding\nUpdated: 2026-01-08 06:21:44 CET
+DTSTAMP:20260109T052239Z
+DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Bandnudeln mit Rucola-Sonnenbl
+ umenkernpesto\n3: Hähnchenkeule - an Schaschliksauce mit Schwenkkartoffel
+ n\n4: Paniertes Schweineschnitzel - \,Preiselbeeren mit Rahmsauce und Spä
+ tzle\nGemüse: Karotten-Erbsen-Gemüse\nBeilage 1: Pommes frites\nBeilage 
+ 2: Schwenkkartoffeln\nBeilage 3: Spätzle\nDessert 1: Veganer Früchtequar
+ k\nDessert 2: Sahneschokopudding\nUpdated: 2026-01-09 06:22:39 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkornreispfanne\, Hausgemachte\, Scharfe Chicken
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
-DTSTAMP:20260108T052144Z
-DESCRIPTION:Suppe: Tagessuppe\n1: Vollkornreispfanne mit Zucchini\, Paprik
- a und Auberginen\n2: Hausgemachte Lasagne mit Sojabolognese\n3: Scharfe Ch
- icken Wings - mit Barbecuesauce\, und Farmersalat und Country Potatoes\nGe
- müse: Tagesgemüse\nBeilage 1: Country Potatoes\nBeilage 2: Pommes frites
- \nBeilage 3: Country Potatoes\nDessert 1: Bayerische Creme mit Zimtkirsche
- n\nDessert 2: Veganer Pudding mit Vanille-Geschmack und Himbeersauce\nUpda
- ted: 2026-01-08 06:21:44 CET
+DTSTAMP:20260109T052239Z
+DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Vollkornreispfanne mit Zucchini\, 
+ Paprika und Auberginen\n2: Hausgemachte Lasagne mit Sojabolognese\n3: Scha
+ rfe Chicken Wings - mit Barbecuesauce\, und Farmersalat und Country Potato
+ es\nGemüse: Broccoli\nBeilage 1: Country Potatoes\nBeilage 2: Pommes frit
+ es\nDessert 1: Bayerische Creme mit Zimtkirschen\nDessert 2: Veganer Puddi
+ ng mit Vanille-Geschmack und Himbeersauce\nUpdated: 2026-01-09 06:22:39 CE
+ T
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spätzle-Pilzpfanne\, Paniertes
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+DTSTAMP:20260109T052239Z
+DESCRIPTION:Suppe: Tomatensuppe\n1: Spätzle-Pilzpfanne\n4: Paniertes Seel
+ achsfilet - mit Remouladensauce und Kartoffelsalat\nGemüse: Kokos-Schlemm
+ ergemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelsalat\nDessert 1:
+  Mousse mit Blutorangen-Geschmack\nDessert 2: Kokosmilchreis mit Mango\nUp
+ dated: 2026-01-09 06:22:39 CET
 END:VEVENT
 END:VCALENDAR
