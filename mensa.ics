@@ -2,135 +2,136 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Grünkernragout\, 2 Crispy\, Allgäuer Käsespätzle
-DTSTART;VALUE=DATE:20260115
-DTEND;VALUE=DATE:20260116
-DTSTAMP:20260115T052327Z
-DESCRIPTION:Suppe: Kartoffelsuppe\n1: Grünkernragout mit Kichererbsen - u
- nd Dinkelbrötchen\nLoaded Fries: Loaded Fries mit Erbsen Guacamole und To
- matensalsa\n3: 2 Crispy Drumsticks - mit Bananen-Curry-Sauce und Gemüse-Z
- artweizen\n4: Allgäuer Käsespätzle - mit Zwiebelschmelze\nGemüse: Rahm
- blumenkohl\nBeilage 1: Pommes frites\nBeilage 2: Gemüsezartweizen\nBeilag
- e 3: Gemüsezartweizen\nDessert 1: Creme mit Tiramisu-Geschmack\nDessert 2
- : Veganer Himbeerquark\nUpdated: 2026-01-15 06:23:27 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spaghetti\, Fischstäbchen\, Kürbis Mac´n
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
-DTSTAMP:20260115T052327Z
-DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Spaghetti mit Sojabolognese\n3
- : Fischstäbchen - mit Remouladensauce und Salzkartoffeln\n4: Kürbis Mac
- ´n Cheese\nGemüse: Orientalisches Gemüse\nBeilage 1: Pommes frites\nBei
- lage 2: Salzkartoffeln\nDessert 1: Mousse mit Mango- Joghurt- Geschmack\nD
- essert 2: Pudding mit Vanille-Geschmack\nUpdated: 2026-01-15 06:23:27 CET
+DTSTAMP:20260116T052233Z
+DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Spaghetti mit Sojabolognese\nL
+ oaded Fries: Loaded Fries mit Bratensauce und Mozzarella\n3: Fischstäbche
+ n - mit Remouladensauce und Salzkartoffeln\n4: Kürbis Mac´n Cheese\nGem
+ üse: Orientalisches Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Salzkar
+ toffeln\nBeilage 3: Gemüsezartweizen\nDessert 1: Mousse mit Mango- Joghur
+ t- Geschmack\nDessert 2: Pudding mit Vanille-Geschmack\nUpdated: 2026-01-1
+ 6 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gnocchi\, Hähnchengyros\, 5 Mini
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Nudelsuppe\n1: Gnocchi - mit Tomatensauce und Rucolagar
  nitur\nLoaded Fries: Loaded Fries mit Hähnchendöner und Sauerrahm\n3: H
  ähnchengyros - mit Tzatziki und Pommes frites\n4: 5 Mini Nürnberger Brat
  würste - mit Bratensauce mit Sauerkraut und Kartoffelpüree\nGemüse: Kok
  os-Schlemmergemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\
  nDessert 1: Creme mit Stracciatella-Geschmack\nDessert 2: Kirschjoghurt\nU
- pdated: 2026-01-15 06:23:27 CET
+ pdated: 2026-01-16 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blumenkohl-Kartoffel-Curry\, Börek mit\, Seelachsfilet
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Blumenkohl-Kartoffel-Curry - und Rei
  s\nLoaded Fries: Loaded Fries mit Hähnchendöner und Sauerrahm\n2: Börek
   mit Spinatfüllung - und Bulgur-Gemüsesalat\n4: Seelachsfilet auf medite
  rranem Gemüsebett - und Reis\nGemüse: Ratatouille-Gemüse\nBeilage 1: Re
  is\nBeilage 2: Pommes frites\nDessert 1: Mousse mit Limone-Joghurt-Geschma
- ck\nDessert 2: Veganes Mousse au chocolat\nUpdated: 2026-01-15 06:23:27 CE
+ ck\nDessert 2: Veganes Mousse au chocolat\nUpdated: 2026-01-16 06:22:33 CE
  T
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne mit\, Hähnchenkeule\, Paniertes
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Penne mit Rucola-Sonnenblumenk
  ernpesto\nLoaded Fries: Loaded Fries mit Hähnchendöner und Sauerrahm\n3:
   Hähnchenkeule - an Schaschliksauce mit Schwenkkartoffeln\n4: Paniertes S
  chweineschnitzel - \,Preiselbeeren mit Rahmsauce und Spätzle\nGemüse: Ka
  rotten-Erbsen-Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Schwenkkartoff
  eln\nBeilage 3: Spätzle\nDessert 1: Veganer Früchtequark\nDessert 2: Sah
- neschokopudding\nUpdated: 2026-01-15 06:23:27 CET
+ neschokopudding\nUpdated: 2026-01-16 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkornreispfanne\, Hausgemachte\, Scharfe Chicken
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Vollkornreispfanne mit Zucchini\, 
  Paprika und Auberginen\nLoaded Fries: Loaded Fries mit Sojabolognese\n2: H
  ausgemachte Lasagne mit Sojabolognese\n3: Scharfe Chicken Wings - mit Barb
  ecuesauce\, und Farmersalat und Country Potatoes\nGemüse: Broccoli\nBeila
  ge 1: Country Potatoes\nBeilage 2: Pommes frites\nDessert 1: Bayerische Cr
  eme mit Zimtkirschen\nDessert 2: Veganer Pudding mit Vanille-Geschmack und
-  Himbeersauce\nUpdated: 2026-01-15 06:23:27 CET
+  Himbeersauce\nUpdated: 2026-01-16 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spätzle-Pilzpfanne\, Weißer Bohneneintopf\, Paniertes
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Tomatensuppe\n1: Spätzle-Pilzpfanne\nLoaded Fries: Loa
  ded Fries mit Bratensauce und Mozzarella\n3: Weißer Bohneneintopf - mit B
  rötchen\n4: Paniertes Seelachsfilet - mit Remouladensauce und Kartoffelsa
  lat\nGemüse: Buntes Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoff
  elsalat\nDessert 1: Mousse mit Blutorangen-Geschmack\nDessert 2: Kokosmilc
- hreis mit Mango\nUpdated: 2026-01-15 06:23:27 CET
+ hreis mit Mango\nUpdated: 2026-01-16 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spinatnudeln\, Lahmacun mit\, Kassler Rücken\, Orientalisches
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Spinatnudeln\n2: Lahmacun mit Salat\n3: 
  Kassler Rücken Braten - mit Bratensauce und Kartoffelpüree\n4: Orientali
  sches Hähnchenragout - mit Gemüse-Couscous\nGemüse: Grüne Bohnen\nBeil
  age 1: Pommes frites\nBeilage 2: Gemüse-Couscous\nBeilage 3: Kartoffelpü
  ree\nDessert 1: Nuss-Nougat-Pudding\nDessert 2: Heidelbeerjoghurt\nUpdated
- : 2026-01-15 06:23:27 CET
+ : 2026-01-16 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Allgäuer Käsespätzle
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Veganes Gyros - mit veganem Tzatziki\, P
  aprikareis und Weißkrautsalat\n3: Allgäuer Käsespätzle - mit Zwiebelsc
  hmelze\nGemüse: Buntes Gemüse\nBeilage 1: Reis\nBeilage 2: Pommes frites
  \nDessert 1: Veganer Pudding mit Vanille-Geschmack und Himbeersauce\nDesse
- rt 2: Früchtemüsli\nUpdated: 2026-01-15 06:23:27 CET
+ rt 2: Früchtemüsli\nUpdated: 2026-01-16 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indisches\, Hähnchen Cordon\, Germknödel
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Indisches Auberginencurry mit Kichererbs
  enreis\n3: Hähnchen Cordon bleu - und Pommes frites\n4: Germknödel mit M
  ohnbutter - mit Dessertsauce Vanille\nGemüse: Rahmblumenkohl\nBeilage 1: 
  Pommes frites\nBeilage 2: Kichererbsenreis\nDessert 1: Erdbeerjoghurt\nDes
- sert 2: Veganer Mangoquark\nUpdated: 2026-01-15 06:23:27 CET
+ sert 2: Veganer Mangoquark\nUpdated: 2026-01-16 06:22:33 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Linsen
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
-DTSTAMP:20260115T052327Z
+DTSTAMP:20260116T052233Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Linsen - und vegane Spätzle\n3: Linsen 
  - und Spätzle mit Saiten\nGemüse: Kokos-Schlemmergemüse\nBeilage 1: Pom
  mes frites\nBeilage 2: Spätzle\nDessert 1: Veganer Himbeerquark\nDessert 
- 2: Sahneschokopudding\nUpdated: 2026-01-15 06:23:27 CET
+ 2: Sahneschokopudding\nUpdated: 2026-01-16 06:22:33 CET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaghetti\, Geflügelfrikadelle\, Paniertes
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+DTSTAMP:20260116T052233Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Spaghetti aglio e olio\n3: Geflügelfrik
+ adelle - mit Barbecuesauce\, und Pommes frites\n4: Paniertes Schollenfilet
+  - mit Remouladensauce und Kartoffelsalat\nGemüse: Balkangemüse\nBeilage
+  1: Pommes frites\nBeilage 2: Kartoffelsalat\nDessert 1: Panna Cotta mit E
+ rdbeermus\nDessert 2: Schokoladenpudding mit Birne\nUpdated: 2026-01-16 06
+ :22:33 CET
 END:VEVENT
 END:VCALENDAR
