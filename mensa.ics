@@ -2,52 +2,37 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Grünkernpfanne\, Falafel\, Überbackenes
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260210
-DTSTAMP:20260209T060511Z
-DESCRIPTION:Suppe: Pilzcremesuppe\n1: Grünkernpfanne mit Blumenkohl-Bohne
- ngemüse - und Möhren-Chili-Dip\nLoaded Fries: Loaded Fries mit Erbsen Gu
- acamole und Tomatensalsa\nLoaded Fries: Loaded Fries mit Sojabolognese\nLo
- aded Fries: Loaded Fries mit Bratensauce und Mozzarella\n2: Falafel - mit 
- Gemüse-Couscous und Knoblauchdip\n4: Überbackenes Hähnchenbrustfilet - 
- an Tomatensugo mit Kräutern und Farfalle\nGemüse: Buntes Gemüse\nBeilag
- e 1: Pommes frites\nBeilage 2: Gemüse-Couscous\nBeilage 3: Farfalle\nDess
- ert 1: Aprikosenjoghurt\nDessert 2: Pudding mit Vanille-Geschmack\nUpdated
- : 2026-02-09 07:05:11 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vollkornspaghetti\, Currywurst\, Korma Chicken
 DTSTART;VALUE=DATE:20260210
 DTEND;VALUE=DATE:20260211
-DTSTAMP:20260209T060511Z
-DESCRIPTION:Suppe: Tomatensuppe\n1: Vollkornspaghetti mit Sojabolognese\nL
- oaded Fries: Loaded Fries mit Erbsen Guacamole und Tomatensalsa\nLoaded Fr
- ies: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded Fri
- es mit Sojabolognese\n3: Currywurst - mit Currysauce und Pommes frites\n4:
-  Korma Chicken - und Duftreis\nGemüse: Erbsen\nBeilage 1: Pommes frites\n
- Beilage 2: Duftreis\nDessert 1: Veganer Heidelbeerquark\nDessert 2: Sahnes
- chokopudding\nUpdated: 2026-02-09 07:05:11 CET
+DTSTAMP:20260210T074513Z
+DESCRIPTION:Suppe: Karottencremesuppe\n1: Vollkornspaghetti mit Sojabologn
+ ese\nLoaded Fries: Loaded Fries mit Erbsen Guacamole und Tomatensalsa\nLoa
+ ded Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Load
+ ed Fries mit Sojabolognese\n3: Currywurst - mit Currysauce und Pommes frit
+ es\n4: Korma Chicken - und Duftreis\nGemüse: Buntes Gemüse\nBeilage 1: P
+ ommes frites\nBeilage 2: Duftreis\nDessert 1: Veganer Heidelbeerquark\nDes
+ sert 2: Sahneschokopudding\nUpdated: 2026-02-10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rotes-Linsen-Kartoffel-Curry\, Kartoffel-Zucchini-Gratin\, Cordon 
  bleu
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Erbsencremesuppe\n1: Rotes-Linsen-Kartoffel-Curry mit R
  osinen\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded
   Fries mit Erbsen Guacamole und Tomatensalsa\nLoaded Fries: Loaded Fries m
  it Bratensauce und Mozzarella\n2: Kartoffel-Zucchini-Gratin\n4: Cordon ble
- u vom Schwein - mit Bratensauce und Pommes frites\nGemüse: Rahmblumenkohl
- \nBeilage 1: Salzkartoffeln\nBeilage 2: Pommes frites\nDessert 1: Käsesah
- ne Creme\nDessert 2: Vegane Himbeercreme\nUpdated: 2026-02-09 07:05:11 CET
+ u vom Schwein - mit Bratensauce und Spätzle\nGemüse: Rahmblumenkohl\nBei
+ lage 1: Pommes frites\nBeilage 2: Spätzle\nDessert 1: Käsesahne Creme\nD
+ essert 2: Vegane Himbeercreme\nUpdated: 2026-02-10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkorn Penne\, Chili con\, Allgäuer Käsespätzle
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260213
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Vollkorn Penne mit mediterrane
  m Gemüse\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loa
  ded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded Fries mit E
@@ -55,13 +40,13 @@ DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Vollkorn Penne mit mediterrane
  uer Käsespätzle - mit Zwiebelschmelze\nGemüse: Kokos-Schlemmergemüse\n
  Beilage 1: Reis\nBeilage 2: Pommes frites\nDessert 1: Kokosmilchreis mit M
  ango\nDessert 2: Rote Grütze - mit Dessertsauce Vanille\nUpdated: 2026-02
- -09 07:05:11 CET
+ -10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Rösti mit\, Backfisch
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Gemüse-Knusperfrikadelle - mi
  t veganer Kräutercremesauce und Reis\nLoaded Fries: Loaded Fries mit Soja
  bolognese\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoad
@@ -69,13 +54,13 @@ DESCRIPTION:Suppe: Indische Curry suppe\n1: Gemüse-Knusperfrikadelle - mi
  t Rahmchampignons\n4: Backfisch - mit Remouladensauce und Kartoffelsalat\n
  Gemüse: Blattspinat\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelsalat\
  nBeilage 3: Reis\nDessert 1: Ananasquark\nDessert 2: Nuss-Nougat-Pudding\n
- Updated: 2026-02-09 07:05:11 CET
+ Updated: 2026-02-10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne mit\, Köttbullar\, Frittierte
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Penne mit Champignons und Cocktailtomate
  n\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Frie
  s mit Hähnchendöner und Sauerrahm\nLoaded Fries: Loaded Fries mit Braten
@@ -83,13 +68,13 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Penne mit Champignons und Cocktailtomate
  alzkartoffeln\n4: Frittierte Tintenfischringe mit Zitrone\, - Knoblauch-Di
  p und Pommes frites\nGemüse: Broccoli\nBeilage 1: Pommes frites\nBeilage 
  2: Duftreis\nBeilage 3: Salzkartoffeln\nDessert 1: Kirschjoghurt\nDessert 
- 2: Pudding mit Vanille-Geschmack\nUpdated: 2026-02-09 07:05:11 CET
+ 2: Pudding mit Vanille-Geschmack\nUpdated: 2026-02-10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegane Paella\, Gebackener\, Paniertes
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Vegane Paella\nLoaded Fries: Loaded Frie
  s mit Bratensauce und Mozzarella\nLoaded Fries: Loaded Fries mit Hähnchen
  döner und Sauerrahm\nLoaded Fries: Loaded Fries mit Sojabolognese\n3: Geb
@@ -97,39 +82,39 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Vegane Paella\nLoaded Fries: Loaded Frie
  Seelachsfilet - mit Remouladensauce und Kartoffelsalat\nGemüse: Blattspin
  at\nBeilage 1: Kartoffelpüree\nBeilage 2: Pommes frites\nBeilage 3: Karto
  ffelsalat\nDessert 1: Mousse mit Limone-Joghurt-Geschmack\nDessert 2: Vega
- ner Himbeerquark\nUpdated: 2026-02-09 07:05:11 CET
+ ner Himbeerquark\nUpdated: 2026-02-10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karotten-Gnocchi-Ragout\, Spaghetti\, Enchiladas
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Karotten-Gnocchi-Ragout\nLoaded Fries: L
  oaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded Fries mit
   Sojabolognese\nLoaded Fries: Loaded Fries mit Hähnchendöner und Sauerra
  hm\n3: Spaghetti Bolognese mit Reibekäse\n4: Enchiladas Mexico mit Grillg
  emüse - und Country Potatoes\nGemüse: Rahmblumenkohl\nBeilage 1: Country
   Potatoes\nDessert 1: Früchtemüsli\nDessert 2: Veganer Ananas-Kokos-Quar
- k\nUpdated: 2026-02-09 07:05:11 CET
+ k\nUpdated: 2026-02-10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schupfnudel-Sauerkraut-Pfanne\, Schweinebraten\, Hähnchen-Nuggets
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Schupfnudel-Sauerkraut-Pfanne\nLoaded Fr
  ies: Loaded Fries mit Hähnchendöner und Sauerrahm\nLoaded Fries: Loaded 
  Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Bratensauce und Mo
  zzarella\n3: Schweinebraten - mit Rahmsauce und Spätzle\n4: Hähnchen-Nug
  gets - mit Curry Dip und Pommes frites\nGemüse: Buntes Gemüse\nBeilage 1
  : Pommes frites\nBeilage 2: Spätzle\nDessert 1: Veganer Grießpudding mit
-  Pfirsich\nDessert 2: Waldbeerenquark\nUpdated: 2026-02-09 07:05:11 CET
+  Pfirsich\nDessert 2: Waldbeerenquark\nUpdated: 2026-02-10 08:45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reispfanne\, Paprika mit\, Fischstäbchen
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Reispfanne mit Naturreis und Weißkraut-
  \,Paprikagemüse\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fri
  es: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded Frie
@@ -137,20 +122,33 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Reispfanne mit Naturreis und Weißkraut-
  n Ratatouille-Gemüse und Kräuterreis\n4: Fischstäbchen - mit Remouladen
  sauce und Kartoffelsalat\nGemüse: Karotten-Erbsen-Gemüse\nBeilage 1: Kar
  toffelsalat\nBeilage 2: Pommes frites\nBeilage 3: Reis\nDessert 1: Frücht
- equark\nDessert 2: Mousse mit Heidelbeer-Geschmack\nUpdated: 2026-02-09 07
- :05:11 CET
+ equark\nDessert 2: Mousse mit Heidelbeer-Geschmack\nUpdated: 2026-02-10 08
+ :45:13 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Hirse\, Allgäuer Käsespätzle\, Bratwurst
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260209T060511Z
+DTSTAMP:20260210T074513Z
 DESCRIPTION:Suppe: Tagessuppe\n1: Tomaten-Hirse mit Haselnüssen\nLoaded F
  ries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Brate
  nsauce und Mozzarella\nLoaded Fries: Loaded Fries mit Chili-Cheese und Jal
  apenos\n2: Allgäuer Käsespätzle - mit Zwiebelschmelze\n3: Bratwurst - m
  it Bratensauce \, Sauerkraut und Kartoffelpüree\nGemüse: Karotten-Erbsen
  -Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\nDessert 1:
-  Himbeerquark\nDessert 2: Früchtemüsli\nUpdated: 2026-02-09 07:05:11 CET
+  Himbeerquark\nDessert 2: Früchtemüsli\nUpdated: 2026-02-10 08:45:13 CET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kichererbsen-Curry\, Kaiserschmarrn\, Schweinegulasch
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+DTSTAMP:20260210T074513Z
+DESCRIPTION:Suppe: Tagessuppe\n1: Kichererbsen-Curry mit Duftreis\nLoaded 
+ Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded F
+ ries mit Chili-Cheese und Jalapenos\nLoaded Fries: Loaded Fries mit Sojabo
+ lognese\n2: Kaiserschmarrn mit Rosinen - und Apfelmus\n4: Schweinegulasch 
+ mit Paprika - und Spätzle\nGemüse: Rahmblumenkohl\nBeilage 1: Duftreis\n
+ Beilage 2: Pommes frites\nDessert 1: Haferquark mit Honig und Mandeln\nDes
+ sert 2: Panna Cotta mit Erdbeermus\nUpdated: 2026-02-10 08:45:13 CET
 END:VEVENT
 END:VCALENDAR
