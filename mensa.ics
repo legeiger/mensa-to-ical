@@ -2,23 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Karotten-Gnocchi-Ragout\, Spaghetti\, Enchiladas
-DTSTART;VALUE=DATE:20260218
-DTEND;VALUE=DATE:20260219
-DTSTAMP:20260218T055818Z
-DESCRIPTION:Suppe: Linsensuppe\n1: Karotten-Gnocchi-Ragout\nLoaded Fries: 
- Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded Fries mi
- t Sojabolognese\nLoaded Fries: Loaded Fries mit Hähnchendöner und Sauerr
- ahm\n3: Spaghetti Bolognese mit Reibekäse\n4: Enchiladas Mexico mit Grill
- gemüse - und Country Potatoes\nGemüse: Rahmblumenkohl\nBeilage 1: Countr
- y Potatoes\nDessert 1: Früchtemüsli\nDessert 2: Veganer Ananas-Kokos-Qua
- rk\nUpdated: 2026-02-18 06:58:18 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Schupfnudel-Sauerkraut-Pfanne\, Schweinebraten\, Hähnchen-Nuggets
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Schupfnudel-Sauerkraut-Pfanne\
  nLoaded Fries: Loaded Fries mit Hähnchendöner und Sauerrahm\nLoaded Frie
  s: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Bratensa
@@ -26,13 +13,13 @@ DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Schupfnudel-Sauerkraut-Pfanne\
  hnchen-Nuggets - mit Curry Dip und Pommes frites\nGemüse: Karotten-Erbsen
  -Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Spätzle\nDessert 1: Vegane
  r Grießpudding mit Pfirsich\nDessert 2: Waldbeerenquark\nUpdated: 2026-02
- -18 06:58:18 CET
+ -19 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reispfanne\, Paprika mit\, Weißer Bohneneintopf
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Reispfanne mit Naturreis und Weiß
  kraut-\,Paprikagemüse\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoad
  ed Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loade
@@ -40,41 +27,41 @@ DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Reispfanne mit Naturreis und Weiß
  \, - an Ratatouille-Gemüse und Kräuterreis\n4: Weißer Bohneneintopf - m
  it Chili-Paprikawurst und Brötchen\nGemüse: Buntes Gemüse\nBeilage 1: K
  artoffelsalat\nBeilage 2: Pommes frites\nBeilage 3: Reis\nDessert 1: Früc
- htequark\nDessert 2: Mousse mit Heidelbeer-Geschmack\nUpdated: 2026-02-18 
- 06:58:18 CET
+ htequark\nDessert 2: Mousse mit Heidelbeer-Geschmack\nUpdated: 2026-02-19 
+ 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Hirse\, Allgäuer Käsespätzle\, Bratwurst
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Flädlesuppe\n1: Tomaten-Hirse mit Haselnüssen\nLoaded
   Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Bra
  tensauce und Mozzarella\nLoaded Fries: Loaded Fries mit Chili-Cheese und J
  alapenos\n2: Allgäuer Käsespätzle - mit Zwiebelschmelze\n3: Bratwurst -
   mit Bratensauce \, Sauerkraut und Kartoffelpüree\nGemüse: Karotten-Erbs
  en-Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\nDessert 
- 1: Himbeerquark\nDessert 2: Früchtemüsli\nUpdated: 2026-02-18 06:58:18 C
+ 1: Himbeerquark\nDessert 2: Früchtemüsli\nUpdated: 2026-02-19 06:56:38 C
  ET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Kaiserschmarrn\, Schweinegulasch
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Kichererbsen-Curry mit Duftreis\nLoa
  ded Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Load
  ed Fries mit Chili-Cheese und Jalapenos\nLoaded Fries: Loaded Fries mit So
  jabolognese\n2: Kaiserschmarrn mit Rosinen - und Apfelmus\n4: Schweinegula
  sch mit Paprika - und Spätzle\nGemüse: Rosenkohl\nBeilage 1: Duftreis\nB
  eilage 2: Pommes frites\nDessert 1: Haferquark mit Honig und Mandeln\nDess
- ert 2: Panna Cotta mit Erdbeermus\nUpdated: 2026-02-18 06:58:18 CET
+ ert 2: Panna Cotta mit Erdbeermus\nUpdated: 2026-02-19 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Bunter Gemüseeintopf\, Paniertes
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  atziki\, Paprikareis und Weißkrautsalat\nLoaded Fries: Loaded Fries mit B
  ratensauce und Mozzarella\nLoaded Fries: Loaded Fries mit Sojabolognese\nL
@@ -83,26 +70,26 @@ DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  nd Kräuterknöpfle\nGemüse: Rahmblumenkohl\nBeilage 1: Paprikareis\nBeil
  age 2: Kräuterknöpfle\nBeilage 3: Pommes frites\nDessert 1: Veganer Pudd
  ing mit Vanille-Geschmack und Himbeersauce\nDessert 2: Weißes Mousse au c
- hocolat\nUpdated: 2026-02-18 06:58:18 CET
+ hocolat\nUpdated: 2026-02-19 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Kartoffelrösti\, Linsen
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Linsen - und vegane Spätzle\nLoad
  ed Fries: Loaded Fries mit Chili-Cheese und Jalapenos\nLoaded Fries: Loade
  d Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Bratensauce und 
  Mozzarella\n2: Kartoffelrösti - mit Champignon-Gemüseragout\n3: Linsen -
   und Spätzle mit Saiten\nGemüse: Broccoli\nBeilage 1: Pommes frites\nBei
  lage 2: Spätzle\nDessert 1: Mandarinenquark\nDessert 2: Veganer Schokopud
- ding mit Kirschen\nUpdated: 2026-02-18 06:58:18 CET
+ ding mit Kirschen\nUpdated: 2026-02-19 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Pilaw\, Fleischküchle\, Paniertes
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\nLoaded 
  Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Brat
  ensauce und Mozzarella\nLoaded Fries: Loaded Fries mit Chili-Cheese und Ja
@@ -110,13 +97,13 @@ DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\nLoaded
  llenfilet - mit Remouladensauce und Kartoffelsalat\nGemüse: Buntes Gemüs
  e\nBeilage 1: Spirelli\nBeilage 2: Kartoffelsalat\nBeilage 3: Pommes frite
  s\nDessert 1: Creme mit Tiramisu-Geschmack\nDessert 2: Nuss-Nougat-Pudding
- \nUpdated: 2026-02-18 06:58:18 CET
+ \nUpdated: 2026-02-19 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Broccoli Kichererbsen\, Grünkohl-Hanfküchle\, Käseknacker
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260303
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Flädlesuppe\n1: Broccoli Kichererbsen Pfanne - und Duf
  treis\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded 
  Fries mit Hähnchenstreifen\,Sweet Chili und Mango Salsa\nLoaded Fries: Lo
@@ -124,13 +111,13 @@ DESCRIPTION:Suppe: Flädlesuppe\n1: Broccoli Kichererbsen Pfanne - und Duf
  Karottensauce und Petersilienkartoffeln\n4: Käseknacker - mit Paprikasauc
  e und Pommes frites\nGemüse: Buntes Gemüse\nBeilage 1: Pommes frites\nBe
  ilage 2: Petersilienkartoffeln\nBeilage 3: Duftreis\nDessert 1: Früchtequ
- ark\nDessert 2: Sahneschokopudding\nUpdated: 2026-02-18 06:58:18 CET
+ ark\nDessert 2: Sahneschokopudding\nUpdated: 2026-02-19 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zartweizen-Pfanne\, Hackfleischröllchen\, Paniertes
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Karottencremesuppe\n1: Zartweizen-Pfanne\nLoaded Fries:
   Loaded Fries mit Hähnchenstreifen\,Sweet Chili und Mango Salsa\nLoaded F
  ries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Brate
@@ -138,13 +125,13 @@ DESCRIPTION:Suppe: Karottencremesuppe\n1: Zartweizen-Pfanne\nLoaded Fries:
  Farfalle\n4: Paniertes Schollenfilet - mit dänischer Remoulade und Kartof
  felsalat\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2: Ka
  rtoffelsalat\nBeilage 3: Farfalle\nDessert 1: Aprikosenjoghurt\nDessert 2:
-  Exotischer Obstsalat\nUpdated: 2026-02-18 06:58:18 CET
+  Exotischer Obstsalat\nUpdated: 2026-02-19 06:56:38 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geschwenkte\, Gemüse-Frikadelle\, Hähnchenbrustfilet
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260218T055818Z
+DTSTAMP:20260219T055638Z
 DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Geschwenkte Risoleekartoffeln 
  mit grünen Bohnen und Paprika Dip\nLoaded Fries: Loaded Fries mit Sojabol
  ognese\nLoaded Fries: Loaded Fries mit Hähnchenstreifen\,Sweet Chili und 
@@ -152,6 +139,20 @@ DESCRIPTION:Suppe: Blumenkohlcremesuppe\n1: Geschwenkte Risoleekartoffeln
   Gemüse-Frikadelle - mit Mango Curry Salsa und Country Potatoes\n4: Hähn
  chenbrustfilet Piccata Milanese - mit Tomaten-Spaghetti\nGemüse: Karotten
  -Erbsen-Gemüse\nBeilage 1: Country Potatoes\nDessert 1: Vanillejoghurt\nD
- essert 2: Veganer Ananas-Kokos-Quark\nUpdated: 2026-02-18 06:58:18 CET
+ essert 2: Veganer Ananas-Kokos-Quark\nUpdated: 2026-02-19 06:56:38 CET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spaghetti\, Hähnchenbrustfilet\, Gebackene
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+DTSTAMP:20260219T055638Z
+DESCRIPTION:Suppe: Linsensuppe\n1: Spaghetti - mit Napolisauce\nLoaded Fri
+ es: Loaded Fries mit Hähnchenstreifen\,Sweet Chili und Mango Salsa\nLoade
+ d Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Br
+ atensauce und Mozzarella\n3: Hähnchenbrustfilet - an Pilzrahmsauce mit We
+ ißwein und Reis\n4: Gebackene Champignonköpfe - mit Remouladensauce und 
+ Salat\nGemüse: Balkangemüse\nBeilage 1: Pommes frites\nBeilage 2: Reis\n
+ Dessert 1: Veganer Himbeerquark\nDessert 2: Birne-Quitte Mascarponecreme\n
+ Updated: 2026-02-19 06:56:38 CET
 END:VEVENT
 END:VCALENDAR
