@@ -81,6 +81,9 @@ for date_str, meals in dates.items():
     dt = datetime.strptime(date_str, "%Y-%m-%d").date()
     e = Event()
     
+    # ADDED: Generate a deterministic UID based on the date so calendar clients can track updates
+    e.add('uid', f"{date_str}-mensa-stuttgart-vaihingen@maxmanager.xyz")
+    
     # Generate event title from main dishes
     event_title = get_event_title_from_meals(meals)
     e.add('summary', event_title)
