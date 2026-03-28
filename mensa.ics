@@ -2,25 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Spaghetti\, Geflügelfrikadelle\, Paniertes
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-DTSTAMP:20260327T061039Z
-UID:2026-03-27-mensa-stuttgart-vaihingen@maxmanager.xyz
-DESCRIPTION:Suppe: Curry-Kokos-Suppe\n1: Spaghetti aglio e olio\nLoaded Fr
- ies: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Braten
- sauce und Mozzarella\nLoaded Fries: Loaded Fries mit Chili-Cheese und Jala
- penos\n3: Geflügelfrikadelle - mit Barbecuesauce\, und Pommes frites\n4: 
- Paniertes Schollenfilet - mit Remouladensauce und Kartoffelsalat\nGemüse:
-  Buntes Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelsalat\nDess
- ert 1: Früchtemüsli\nDessert 2: Pudding mit Sahne Vanille-Geschmack\nUpd
- ated: 2026-03-27 07:10:39 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gebratene\, Bratwurst\, Hähnchebrustfilet
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260331
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-03-30-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Flädlesuppe\n1: Gebratene Mienudeln mit Paprika\, Wei
  ßkraut und Karotten\nLoaded Fries: Loaded Fries mit Hähnchenstreifen\,Sw
@@ -30,13 +15,13 @@ DESCRIPTION:Suppe: Flädlesuppe\n1: Gebratene Mienudeln mit Paprika\, Wei
  rfrischkäsefüllung - mit Zitronen-Knoblauchsauce und Spirelli\nGemüse: 
  Buntes Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Spirelli\nBeilage 3: 
  Schwenkkartoffeln\nDessert 1: Pfirsichjoghurt\nDessert 2: Sahneschokopuddi
- ng\nUpdated: 2026-03-27 07:10:39 CET
+ ng\nUpdated: 2026-03-28 06:54:25 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Linsen\, Paniertes
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-03-31-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Linsen - und vegane Spätzle\nLoad
  ed Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loade
@@ -45,13 +30,13 @@ DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Linsen - und vegane Spätzle\nLoad
  niertes Hokifilet - mit Limettenschmand und Thymiankartoffeln\nGemüse: Br
  occoli\nBeilage 1: Thymiankartoffeln\nBeilage 2: Spätzle\nBeilage 3: Pomm
  es frites\nDessert 1: Veganes Früchtemüsli\nDessert 2: Vanillejoghurt\nU
- pdated: 2026-03-27 07:10:39 CET
+ pdated: 2026-03-28 06:54:25 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Vegane Tortelloni\, Schweinegeschnetzeltes
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-04-01-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Linsensuppe\n1: Kichererbsen-Curry mit Duftreis\nLoaded
   Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Bra
@@ -60,13 +45,13 @@ DESCRIPTION:Suppe: Linsensuppe\n1: Kichererbsen-Curry mit Duftreis\nLoaded
  uce\n4: Schweinegeschnetzeltes mit Champignons - und Kartoffelrösti\nGem
  üse: Rahmblumenkohl\nBeilage 1: Duftreis\nBeilage 2: Pommes frites\nDesse
  rt 1: Mandarinen Mascarpone Creme\nDessert 2: Veganer Heidelbeerquark\nUpd
- ated: 2026-03-27 07:10:39 CET
+ ated: 2026-03-28 06:54:25 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kartoffel-Gemüse-Pfanne\, Cevapcici\, Paniertes
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-04-02-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Kartoffel-Gemüse-Pfanne\nLoad
  ed Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loade
@@ -75,13 +60,13 @@ DESCRIPTION:Suppe: Indische Curry suppe\n1: Kartoffel-Gemüse-Pfanne\nLoad
  4: Paniertes Schweineschnitzel - mit Bratensauce und Pommes frites\nGemüs
  e: Karotten-Erbsen-Gemüse\nBeilage 1: Pommes frites\nBeilage 2: Djuvec-Re
  is\nDessert 1: Veganes Mousse au chocolat\nDessert 2: Himbeerquark\nUpdate
- d: 2026-03-27 07:10:39 CET
+ d: 2026-03-28 06:54:25 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkornspaghetti\, Currywurst\, Korma Chicken
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-04-07-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Vollkornspaghetti mit Sojabolognese\
  nLoaded Fries: Loaded Fries mit Erbsen Guacamole und Tomatensalsa\nLoaded 
@@ -89,14 +74,14 @@ DESCRIPTION:Suppe: Kartoffelsuppe\n1: Vollkornspaghetti mit Sojabolognese\
  ries mit Sojabolognese\n3: Currywurst - mit Currysauce und Pommes frites\n
  4: Korma Chicken - und Duftreis\nGemüse: Buntes Gemüse\nBeilage 1: Pomme
  s frites\nBeilage 2: Duftreis\nDessert 1: Sahneschokopudding\nDessert 2: V
- eganer Heidelbeerquark\nUpdated: 2026-03-27 07:10:39 CET
+ eganer Heidelbeerquark\nUpdated: 2026-03-28 06:54:25 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rotes-Linsen-Kartoffel-Curry\, Kartoffel-Zucchini-Gratin\, Cordon 
  bleu
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-04-08-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tomatensuppe\n1: Rotes-Linsen-Kartoffel-Curry mit Rosin
  en\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fri
@@ -104,13 +89,13 @@ DESCRIPTION:Suppe: Tomatensuppe\n1: Rotes-Linsen-Kartoffel-Curry mit Rosin
  ratensauce und Mozzarella\n2: Kartoffel-Zucchini-Gratin\n4: Cordon bleu vo
  m Schwein - mit Bratensauce und Pommes frites\nGemüse: Broccoli\nBeilage 
  1: Salzkartoffeln\nBeilage 2: Pommes frites\nDessert 1: Vegane Himbeercrem
- e\nDessert 2: Käsesahne Creme\nUpdated: 2026-03-27 07:10:39 CET
+ e\nDessert 2: Käsesahne Creme\nUpdated: 2026-03-28 06:54:25 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkorn Penne\, Chili con\, Allgäuer Käsespätzle
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-04-09-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Bunte Bohnensuppe\n1: Vollkorn Penne mit mediterranem G
  emüse\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded
@@ -118,13 +103,13 @@ DESCRIPTION:Suppe: Bunte Bohnensuppe\n1: Vollkorn Penne mit mediterranem G
  en Guacamole und Tomatensalsa\n3: Chili con Carne - und Reis\n4: Allgäuer
   Käsespätzle - mit Zwiebelschmelze\nGemüse: Ratatouille-Gemüse\nBeilag
  e 1: Reis\nDessert 1: Rote Grütze - mit Dessertsauce Vanille\nDessert 2: 
- Kokosmilchreis mit Mango\nUpdated: 2026-03-27 07:10:39 CET
+ Kokosmilchreis mit Mango\nUpdated: 2026-03-28 06:54:25 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Fajitas mit\, Backfisch
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
-DTSTAMP:20260327T061039Z
+DTSTAMP:20260328T055425Z
 UID:2026-04-10-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Gemüse-Knusperfrikadelle - mit ve
  ganer Kräutercremesauce und Reis\nLoaded Fries: Loaded Fries mit Sojabolo
@@ -133,6 +118,6 @@ DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Gemüse-Knusperfrikadelle - mit ve
  emüse\, Sojastreifen und Dip - mit veganem Sour-Cream Dip\n4: Backfisch -
   mit Remouladensauce und Kartoffelsalat\nGemüse: Grüne Bohnen\nBeilage 1
  : Kartoffelsalat\nBeilage 2: Pommes frites\nDessert 1: Nuss-Nougat-Pudding
- \nDessert 2: Ananasquark\nUpdated: 2026-03-27 07:10:39 CET
+ \nDessert 2: Ananasquark\nUpdated: 2026-03-28 06:54:25 CET
 END:VEVENT
 END:VCALENDAR
