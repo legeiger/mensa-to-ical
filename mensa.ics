@@ -2,26 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Reispfanne\, Rote Wurst\, Paniertes
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-DTSTAMP:20260417T065557Z
-UID:2026-04-17-mensa-stuttgart-vaihingen@maxmanager.xyz
-DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Reispfanne mit Naturreis und Weiß
- kraut-\,Paprikagemüse\nAktionsessen: Aktionsgericht: Pulled Pork - mit Co
- leslaw und Country Potatoes\nLoaded Fries: Loaded Fries mit Sojabolognese\
- nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: 
- Loaded Fries mit Hähnchendöner und Sauerrahm\n3: Rote Wurst - mit Puszta
- sauce und Country Potatoes\n4: Paniertes Seelachsfilet - mit Remouladensau
- ce und Kartoffelsalat\nGemüse: Buntes Gemüse\nBeilage 1: Kartoffelsalat\
- nBeilage 2: Country Potatoes\nDessert 1: Früchtequark\nDessert 2: Himbeer
- -Sahne-Creme\nUpdated: 2026-04-17 08:55:57 CEST
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tomaten-Hirse\, Allgäuer Käsespätzle\, Bratwurst
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-20-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Tomaten-Hirse mit Haselnüssen\nLoad
  ed Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit B
@@ -29,13 +13,13 @@ DESCRIPTION:Suppe: Kartoffelsuppe\n1: Tomaten-Hirse mit Haselnüssen\nLoad
   Jalapenos\n2: Allgäuer Käsespätzle - mit Zwiebelschmelze\n3: Bratwurst
   - mit Bratensauce mit Sauerkraut und Kartoffelpüree\nGemüse: Erbsen\nBe
  ilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\nDessert 1: Früchtemü
- sli\nDessert 2: Himbeerquark\nUpdated: 2026-04-17 08:55:57 CEST
+ sli\nDessert 2: Himbeerquark\nUpdated: 2026-04-18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Kaiserschmarrn\, Schweinegulasch
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-21-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tomatensuppe\n1: Kichererbsen-Curry mit Duftreis\nLoade
  d Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded
@@ -44,13 +28,13 @@ DESCRIPTION:Suppe: Tomatensuppe\n1: Kichererbsen-Curry mit Duftreis\nLoade
  h mit Paprika - und Spätzle\nGemüse: Buntes Gemüse\nBeilage 1: Duftreis
  \nBeilage 2: Pommes frites\nBeilage 3: Spätzle\nDessert 1: Creme mit Tira
  misu-Geschmack\nDessert 2: Haferquark mit Honig und Mandeln\nUpdated: 2026
- -04-17 08:55:57 CEST
+ -04-18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Geröstete\, Paniertes
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-22-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  atziki\, Paprikareis und Weißkrautsalat\nLoaded Fries: Loaded Fries mit B
@@ -60,13 +44,13 @@ DESCRIPTION:Suppe: Indische Curry suppe\n1: Veganes Gyros - mit veganem Tz
  uce und Kräuterknöpfle\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frite
  s\nBeilage 2: Paprikareis\nBeilage 3: Kräuterknöpfle\nDessert 1: Weißes
   Mousse au chocolat\nDessert 2: Veganer Pudding mit Vanille-Geschmack und 
- Himbeersauce\nUpdated: 2026-04-17 08:55:57 CEST
+ Himbeersauce\nUpdated: 2026-04-18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Kartoffelrösti\, Linsen
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-23-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Pilzcremesuppe\n1: Linsen - und vegane Spätzle\nLoaded
   Fries: Loaded Fries mit Chili-Cheese und Jalapenos\nLoaded Fries: Loaded 
@@ -74,13 +58,13 @@ DESCRIPTION:Suppe: Pilzcremesuppe\n1: Linsen - und vegane Spätzle\nLoaded
  zzarella\n2: Kartoffelrösti - mit Champignon-Gemüseragout\n3: Linsen - u
  nd Spätzle mit Saiten\nGemüse: Kokos-Schlemmergemüse\nBeilage 1: Spätz
  le\nBeilage 2: Pommes frites\nDessert 1: Mandarinenquark\nDessert 2: Vegan
- er Schokopudding mit Kirschen\nUpdated: 2026-04-17 08:55:57 CEST
+ er Schokopudding mit Kirschen\nUpdated: 2026-04-18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomaten-Pilaw\, Fleischküchle\, Backfisch
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-24-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\nLoaded 
  Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Brat
@@ -89,13 +73,13 @@ DESCRIPTION:Suppe: Linsensuppe\n1: Tomaten-Pilaw mit Räuchertofu\nLoaded
  t Remouladensauce und Kartoffelsalat\nGemüse: Blattspinat\nBeilage 1: Pom
  mes frites\nBeilage 2: Kartoffelsalat\nBeilage 3: Spirelli\nDessert 1: Nus
  s-Nougat-Pudding\nDessert 2: Panna Cotta mit Erdbeermus\nUpdated: 2026-04-
- 17 08:55:57 CEST
+ 18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Broccoli Kichererbsen\, Spirelli\, Käseknacker
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-27-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tagessuppe\n1: Broccoli Kichererbsen Pfanne - und Duftr
  eis\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fr
@@ -104,13 +88,13 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Broccoli Kichererbsen Pfanne - und Duftr
   Käseknacker - mit Paprikasauce und Pommes frites\nGemüse: Buntes Gemüs
  e\nBeilage 1: Pommes frites\nBeilage 2: Petersilienkartoffeln\nBeilage 3: 
  Duftreis\nDessert 1: Früchtequark\nDessert 2: Sahneschokopudding\nUpdated
- : 2026-04-17 08:55:57 CEST
+ : 2026-04-18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zartweizen-Pfanne\, Hackfleischröllchen\, Paniertes
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-28-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tagessuppe\n1: Zartweizen-Pfanne\nLoaded Fries: Loaded 
  Fries mit Hähnchenstreifen\,Sweet Chili und Mango Salsa\nLoaded Fries: Lo
@@ -119,13 +103,13 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Zartweizen-Pfanne\nLoaded Fries: Loaded
  \n4: Paniertes Schollenfilet - mit dänischer Remoulade und Bratkartoffeln
  \nGemüse: Grüne Bohnen\nBeilage 1: Bratkartoffeln\nBeilage 2: Pommes fri
  tes\nDessert 1: Aprikosenjoghurt\nDessert 2: Exotischer Obstsalat\nUpdated
- : 2026-04-17 08:55:57 CEST
+ : 2026-04-18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geschwenkte\, Gemüse-Frikadelle\, Hähnchenbrustfilet
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-29-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tagessuppe\n1: Geschwenkte Risoleekartoffeln mit grüne
  n Bohnen und Paprika Dip\nLoaded Fries: Loaded Fries mit Sojabolognese\nLo
@@ -134,13 +118,13 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Geschwenkte Risoleekartoffeln mit grüne
  rikadelle - mit Mango Curry Salsa und Country Potatoes\n4: Hähnchenbrustf
  ilet Piccata Milanese - mit Tomaten-Spaghetti\nGemüse: Karotten-Erbsen-Ge
  müse\nBeilage 1: Country Potatoes\nDessert 1: Vanillejoghurt\nDessert 2: 
- Veganer Ananas-Kokos-Quark\nUpdated: 2026-04-17 08:55:57 CEST
+ Veganer Ananas-Kokos-Quark\nUpdated: 2026-04-18 08:11:14 CEST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti\, Hähnchenbrustfilet\, Gebackene
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
-DTSTAMP:20260417T065557Z
+DTSTAMP:20260418T061114Z
 UID:2026-04-30-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tagessuppe\n1: Spaghetti - mit Napolisauce\nLoaded Frie
  s: Loaded Fries mit Hähnchenstreifen\,Sweet Chili und Mango Salsa\nLoaded
@@ -149,6 +133,6 @@ DESCRIPTION:Suppe: Tagessuppe\n1: Spaghetti - mit Napolisauce\nLoaded Frie
  und Spätzle\n4: Gebackene Champignonköpfe - mit Remouladensauce und Sala
  t\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2: Spätzle\
  nDessert 1: Veganer Himbeerquark\nDessert 2: Panna Cotta mit Erdbeermus\nU
- pdated: 2026-04-17 08:55:57 CEST
+ pdated: 2026-04-18 08:11:14 CEST
 END:VEVENT
 END:VCALENDAR
