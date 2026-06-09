@@ -1,9 +1,10 @@
 import json
 import httpx
-from datetime import datetime, timedelta
-from icalendar import Calendar, Event
 import sys
 import re
+import time
+from datetime import datetime, timedelta, timezone
+from icalendar import Calendar, Event
 from zoneinfo import ZoneInfo
 
 # Dictionary to replace category names with shorter versions
@@ -32,7 +33,7 @@ def get_event_title_from_meals(meals):
             # Extract first 1-2 words from the dish name
             words = cleaned_meal.split()
             if len(words) >= 2:
-                # if less then 8 characters take first two words
+                # if less than 8 characters take first two words
                 if len(words[0]) <= 8:
                     main_dishes.append(f"{words[0]} {words[1]}")
                 else:
@@ -47,19 +48,36 @@ def get_event_title_from_meals(meals):
 # Fetch JSON Data
 url = "https://sws.maxmanager.xyz/extern/mensa_stuttgart-vaihingen.json"
 
-try:
-    response = httpx.get(url, timeout=30)
-    response.raise_for_status()
-    data = response.json()
-except httpx.RequestError as e:
-    print(f"Error fetching data: {e}")
-    sys.exit(1)
-except httpx.HTTPStatusError as e:
-    print(f"HTTP error: {e}")
-    sys.exit(1)
-except json.JSONDecodeError as e:
-    print(f"Error parsing JSON: {e}")
-    sys.exit(1)
+# Mimic a standard mobile user (Safari on iOS)
+headers = {
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+}
+
+MAX_RETRIES = 10
+BASE_TIMEOUT = 15  # Initial timeout in seconds
+data = None
+
+# Robust Network Fetch Loop
+for attempt in range(1, MAX_RETRIES + 1):
+    # Scale up timeout with each retry
+    current_timeout = int( BASE_TIMEOUT * attempt / 3)
+    try:
+        print(f"Attempt {attempt}/{MAX_RETRIES}: Fetching data (Timeout: {current_timeout}s)...")
+        response = httpx.get(url, headers=headers, timeout=current_timeout)
+        response.raise_for_status()
+        data = response.json()
+        print("Data fetched successfully!")
+        break  # Exit loop on success
+    except (httpx.RequestError, httpx.HTTPStatusError, json.JSONDecodeError) as e:
+        print(f"Attempt {attempt} failed due to: {type(e).__name__} - {e}")
+        if attempt < MAX_RETRIES:
+            # Wait longer between each retry: 10s -> 20s -> 30s
+            sleep_duration = attempt * 10
+            print(f"Waiting {sleep_duration} seconds before next attempt...")
+            time.sleep(sleep_duration)
+        else:
+            print("All retry attempts failed. Exiting script.")
+            sys.exit(1)
 
 calendar = Calendar()
 calendar.add('prodid', '-//Mensa Stuttgart Vaihingen//')
@@ -81,7 +99,7 @@ for date_str, meals in dates.items():
     dt = datetime.strptime(date_str, "%Y-%m-%d").date()
     e = Event()
     
-    # ADDED: Generate a deterministic UID based on the date so calendar clients can track updates
+    # Generate a deterministic UID based on the date so calendar clients can track updates
     e.add('uid', f"{date_str}-mensa-stuttgart-vaihingen@maxmanager.xyz")
     
     # Generate event title from main dishes
@@ -111,14 +129,14 @@ for date_str, meals in dates.items():
     e.add('description', description)
     e.add('dtstart', dt)
     e.add('dtend', dt + timedelta(days=1))
-    e.add('dtstamp', datetime.utcnow())
+    e.add('dtstamp', datetime.now(timezone.utc))
     calendar.add_component(e)
 
-# Write to file (must be opened in binary mode!)
+# Write to file (opened in binary mode)
 try:
     with open("mensa.ics", "wb") as f:
         f.write(calendar.to_ical())
-    print("ICS file generated as mensa.ics")
+    print("ICS file generated cleanly as mensa.ics")
 except IOError as e:
     print(f"Error writing file: {e}")
     sys.exit(1)
