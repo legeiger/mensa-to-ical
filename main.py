@@ -48,36 +48,39 @@ def get_event_title_from_meals(meals):
 # Fetch JSON Data
 url = "https://sws.maxmanager.xyz/extern/mensa_stuttgart-vaihingen.json"
 
-# Mimic a standard browser
+# Use a simple, descriptive user agent
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"
+    "Accept": "application/json",
+    "User-Agent": "mensa-to-ical/1.0 (Python-httpx)"
 }
 
 MAX_RETRIES = 10
 BASE_TIMEOUT = 15  # Initial timeout in seconds
+TIMEOUT_STEP = 5   # Add 5 seconds per retry
 data = None
 
-# Robust Network Fetch Loop
-for attempt in range(1, MAX_RETRIES + 1):
-    # Scale up timeout with each retry
-    current_timeout = int( BASE_TIMEOUT * attempt / 3)
-    try:
-        print(f"Attempt {attempt}/{MAX_RETRIES}: Fetching data (Timeout: {current_timeout}s)...")
-        response = httpx.get(url, headers=headers, timeout=current_timeout)
-        response.raise_for_status()
-        data = response.json()
-        print("Data fetched successfully!")
-        break  # Exit loop on success
-    except (httpx.RequestError, httpx.HTTPStatusError, json.JSONDecodeError) as e:
-        print(f"Attempt {attempt} failed due to: {type(e).__name__} - {e}")
-        if attempt < MAX_RETRIES:
-            # Wait longer between each retry: 10s -> 20s -> 30s
-            sleep_duration = attempt * 10
-            print(f"Waiting {sleep_duration} seconds before next attempt...")
-            time.sleep(sleep_duration)
-        else:
-            print("All retry attempts failed. Exiting script.")
-            sys.exit(1)
+# Robust Network Fetch Loop (shared client keeps connections pooled)
+with httpx.Client(headers=headers) as client:
+    for attempt in range(1, MAX_RETRIES + 1):
+        # Start with a practical timeout and increase gradually
+        current_timeout = BASE_TIMEOUT + ((attempt - 1) * TIMEOUT_STEP)
+        try:
+            print(f"Attempt {attempt}/{MAX_RETRIES}: Fetching data (Timeout: {current_timeout}s)...")
+            response = client.get(url, timeout=current_timeout)
+            response.raise_for_status()
+            data = response.json()
+            print("Data fetched successfully!")
+            break  # Exit loop on success
+        except (httpx.RequestError, httpx.HTTPStatusError, json.JSONDecodeError) as e:
+            print(f"Attempt {attempt} failed due to: {type(e).__name__} - {e}")
+            if attempt < MAX_RETRIES:
+                # Wait longer between each retry: 10s -> 20s -> 30s
+                sleep_duration = attempt * 10
+                print(f"Waiting {sleep_duration} seconds before next attempt...")
+                time.sleep(sleep_duration)
+            else:
+                print("All retry attempts failed. Exiting script.")
+                sys.exit(1)
 
 calendar = Calendar()
 calendar.add('prodid', '-//Mensa Stuttgart Vaihingen//')
