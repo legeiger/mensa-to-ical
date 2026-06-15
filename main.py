@@ -50,7 +50,7 @@ url = "https://sws.maxmanager.xyz/extern/mensa_stuttgart-vaihingen.json"
 
 # Use a simple, descriptive user agent
 headers = {
-    "Accept": "Accept: application/json",
+    "Accept": "application/json",
     "User-Agent": "mensa-to-ical/1.0 (Python-httpx)"
 }
 
