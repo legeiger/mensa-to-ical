@@ -48,9 +48,9 @@ def get_event_title_from_meals(meals):
 # Fetch JSON Data
 url = "https://sws.maxmanager.xyz/extern/mensa_stuttgart-vaihingen.json"
 
-# Mimic a standard mobile user (Safari on iOS)
+# Mimic a standard browser
 headers = {
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"
 }
 
 MAX_RETRIES = 10
