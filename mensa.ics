@@ -2,27 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Penne mit\, Paniertes
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261028T105638Z
-UID:2026-10-28-mensa-stuttgart-vaihingen@maxmanager.xyz
-DESCRIPTION:Suppe: Indische Curry suppe\n1: Penne mit Rucola-Sonnenblumenk
- ernpesto\nAll-Time-Classic vegan: Vegane Maultaschen - mit Zwiebelsauce un
- d Kartoffelsalat\nAll-Time-Classic tierisch: Maultaschen - mit Zwiebelsauc
- e und Kartoffelsalat\nLoaded Fries: Loaded Fries mit Bratensauce und Mozza
- rella\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded 
- Fries mit Hähnchendöner und Sauerrahm\n4: Paniertes Schweineschnitzel - 
- \,Preiselbeeren mit Rahmsauce und Spätzle\nGemüse: Buntes Gemüse\nBeila
- ge 1: Pommes frites\nBeilage 2: Spätzle\nBeilage 3: Kartoffelsalat\nDesse
- rt 1: Veganer Früchtequark\nDessert 2: Sahneschokopudding\nUpdated: 2026-
- 10-28 11:56:38 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vollkornreispfanne\, Scharfe Chicken
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-10-29-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Vollkornreispfanne mit Zucchini\, 
  Paprika und Auberginen\nAll-Time-Classic vegan: Vegane Maultaschen - mit Z
@@ -33,13 +16,13 @@ DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Vollkornreispfanne mit Zucchini\,
  Wings - mit Barbecuesauce\, und Farmersalat und Country Potatoes\nGemüse:
   Blattspinat\nBeilage 1: Country Potatoes\nBeilage 2: Kartoffelsalat\nDess
  ert 1: Veganer Pudding mit Vanille-Geschmack und Himbeersauce\nDessert 2: 
- Mousse mit Blutorangen-Geschmack\nUpdated: 2026-10-28 11:56:38 CET
+ Mousse mit Blutorangen-Geschmack\nUpdated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spätzle-Pilzpfanne\, Paniertes
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-10-30-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kürbissuppe\n1: Spätzle-Pilzpfanne\nAll-Time-Classic 
  vegan: Vegane Maultaschen - mit Zwiebelsauce und Kartoffelsalat\nAll-Time-
@@ -49,94 +32,94 @@ DESCRIPTION:Suppe: Kürbissuppe\n1: Spätzle-Pilzpfanne\nAll-Time-Classic
  nd Sauerrahm\n3: Paniertes Seelachsfilet - mit Remouladensauce und Kartoff
  elsalat\nGemüse: Kokos-Schlemmergemüse\nBeilage 1: Pommes frites\nBeilag
  e 2: Kartoffelsalat\nDessert 1: Veganes Mousse au chocolat\nDessert 2: Bay
- erische Creme mit Zimtkirschen\nUpdated: 2026-10-28 11:56:38 CET
+ erische Creme mit Zimtkirschen\nUpdated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spinatnudeln\, Maultaschen
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-02-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tomatensuppe\n1: Spinatnudeln\nAll-Time-Classic vegan: 
- Vegane Wurst - mit Currysauce und Pommes frites\nAll-Time-Classic tierisch
- : Currywurst - mit Currysauce und Pommes frites\nLoaded Fries: Loaded Frie
- s mit Sojabolognese\nLoaded Fries: Loaded Fries mit Chili-Cheese und Jalap
- enos\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella\n3: Maulta
- schen - mit Zwiebelsauce und Kartoffelsalat\nGemüse: Broccoli\nBeilage 1:
-  Pommes frites\nBeilage 2: Gemüse-Couscous\nBeilage 3: Kartoffelsalat\nDe
- ssert 1: Heidelbeerjoghurt\nDessert 2: Schokoladenpudding mit Birne\nUpdat
- ed: 2026-10-28 11:56:38 CET
+ Vegane Wurst - mit Currysauce und Steakhouse frites\nAll-Time-Classic tier
+ isch: Currywurst - mit Currysauce und Steakhouse frites\nLoaded Fries: Loa
+ ded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Chili-Cheese u
+ nd Jalapenos\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella\n3
+ : Maultaschen - mit Zwiebelsauce und Kartoffelsalat\nGemüse: Broccoli\nBe
+ ilage 1: Pommes frites\nBeilage 2: Gemüse-Couscous\nBeilage 3: Kartoffels
+ alat\nDessert 1: Heidelbeerjoghurt\nDessert 2: Schokoladenpudding mit Birn
+ e\nUpdated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Veganes Gyros\, Seelachs Nuggets
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-03-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Veganes Gyros - mit veganem Tzatzi
  ki\, Paprikareis und Weißkrautsalat\nAll-Time-Classic vegan: Vegane Wurst
-  - mit Currysauce und Pommes frites\nAll-Time-Classic tierisch: Currywurst
-  - mit Currysauce und Pommes frites\nLoaded Fries: Loaded Fries mit Sojabo
- lognese\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded
-  Fries: Loaded Fries mit Chili-Cheese und Jalapenos\n4: Seelachs Nuggets -
-  mit Honig-Senf-Dip und Steakhouse frites\nGemüse: Orientalisches Gemüse
- \nBeilage 1: Reis\nBeilage 2: Steakhouse frites\nDessert 1: Veganer Puddin
- g mit Vanille-Geschmack und Himbeersauce\nDessert 2: Früchtemüsli\nUpdat
- ed: 2026-10-28 11:56:38 CET
+  - mit Currysauce und Steakhouse frites\nAll-Time-Classic tierisch: Curryw
+ urst - mit Currysauce und Steakhouse frites\nLoaded Fries: Loaded Fries mi
+ t Sojabolognese\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella
+ \nLoaded Fries: Loaded Fries mit Chili-Cheese und Jalapenos\n4: Seelachs N
+ uggets - mit Honig-Senf-Dip und Steakhouse frites\nGemüse: Orientalisches
+  Gemüse\nBeilage 1: Reis\nBeilage 2: Steakhouse frites\nDessert 1: Vegane
+ r Pudding mit Vanille-Geschmack und Himbeersauce\nDessert 2: Früchtemüsl
+ i\nUpdated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indisches\, Hähnchen Cordon
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-04-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Erbsencremesuppe\n1: Indisches Auberginencurry mit Kich
- ererbsenreis\nAll-Time-Classic vegan: Vegane Wurst - mit Currysauce und Po
- mmes frites\nAll-Time-Classic tierisch: Currywurst - mit Currysauce und Po
- mmes frites\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella\nLo
- aded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit
-  Chili-Cheese und Jalapenos\n3: Hähnchen Cordon bleu - und Pommes frites\
- nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2: Kichererbse
- nreis\nDessert 1: Veganer Mangoquark\nDessert 2: Panna Cotta mit Erdbeermu
- s\nUpdated: 2026-10-28 11:56:38 CET
+ ererbsenreis\nAll-Time-Classic vegan: Vegane Wurst - mit Currysauce und St
+ eakhouse frites\nAll-Time-Classic tierisch: Currywurst - mit Currysauce un
+ d Steakhouse frites\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzar
+ ella\nLoaded Fries: Loaded Fries mit Sojabolognese\nLoaded Fries: Loaded F
+ ries mit Chili-Cheese und Jalapenos\n3: Hähnchen Cordon bleu - mit Steakh
+ ouse frites\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2:
+  Kichererbsenreis\nDessert 1: Veganer Mangoquark\nDessert 2: Panna Cotta m
+ it Erdbeermus\nUpdated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Allgäuer Käsespätzle
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-05-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Indische Curry suppe\n1: Gemüse-Knusperfrikadelle - mi
  t Kräuterdip und Vollkornnudelsalat\nAll-Time-Classic vegan: Vegane Wurst
-  - mit Currysauce und Pommes frites\nAll-Time-Classic tierisch: Currywurst
-  - mit Currysauce und Pommes frites\nLoaded Fries: Loaded Fries mit Braten
- sauce und Mozzarella\nLoaded Fries: Loaded Fries mit Chili-Cheese und Jala
- penos\nLoaded Fries: Loaded Fries mit Sojabolognese\n3: Allgäuer Käsesp
- ätzle - mit Zwiebelschmelze\nGemüse: Ratatouille-Gemüse\nBeilage 1: Pom
- mes frites\nDessert 1: Veganer Himbeerquark\nDessert 2: Sahneschokopudding
- \nUpdated: 2026-10-28 11:56:38 CET
+  - mit Currysauce und Steakhouse frites\nAll-Time-Classic tierisch: Curryw
+ urst - mit Currysauce und Steakhouse frites\nLoaded Fries: Loaded Fries mi
+ t Bratensauce und Mozzarella\nLoaded Fries: Loaded Fries mit Chili-Cheese 
+ und Jalapenos\nLoaded Fries: Loaded Fries mit Sojabolognese\n3: Allgäuer 
+ Käsespätzle - mit Zwiebelschmelze\nGemüse: Ratatouille-Gemüse\nBeilage
+  1: Pommes frites\nDessert 1: Veganer Himbeerquark\nDessert 2: Sahneschoko
+ pudding\nUpdated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spaghetti\, Paniertes
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-06-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Blumenkohlsuppe\n1: Spaghetti aglio e olio\nAll-Time-Cl
- assic vegan: Vegane Wurst - mit Currysauce und Pommes frites\nAll-Time-Cla
- ssic tierisch: Currywurst - mit Currysauce und Pommes frites\nLoaded Fries
- : Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded Fries 
- mit Sojabolognese\nLoaded Fries: Loaded Fries mit Chili-Cheese und Jalapen
- os\n4: Paniertes Schollenfilet - mit Remouladensauce und Kartoffelsalat\nG
- emüse: Kaisergemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartoffelsalat
- \nDessert 1: Nuss-Nougat-Pudding\nDessert 2: Erdbeerjoghurt\nUpdated: 2026
- -10-28 11:56:38 CET
+ assic vegan: Vegane Wurst - mit Currysauce und Steakhouse frites\nAll-Time
+ -Classic tierisch: Currywurst - mit Currysauce und Steakhouse frites\nLoad
+ ed Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loade
+ d Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Chili-Cheese und
+  Jalapenos\n4: Paniertes Schollenfilet - mit Remouladensauce und Kartoffel
+ salat\nGemüse: Kaisergemüse\nBeilage 1: Pommes frites\nBeilage 2: Kartof
+ felsalat\nDessert 1: Nuss-Nougat-Pudding\nDessert 2: Erdbeerjoghurt\nUpdat
+ ed: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gebratene\, Kohlroulade
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-09-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Gebratene Mienudeln mit Paprika\, We
  ißkraut und Karotten\nAll-Time-Classic tierisch: Hähnchen-Döner - mit J
@@ -145,13 +128,13 @@ DESCRIPTION:Suppe: Kartoffelsuppe\n1: Gebratene Mienudeln mit Paprika\, We
  oaded Fries: Loaded Fries mit Bratensauce und Mozzarella\n3: Kohlroulade -
   mit Bratensauce und Kartoffelpüree\nGemüse: Karotten-Erbsen-Gemüse\nBe
  ilage 1: Pommes frites\nBeilage 2: Kartoffelpüree\nDessert 1: Sahneschoko
- pudding\nDessert 2: Pfirsichjoghurt\nUpdated: 2026-10-28 11:56:38 CET
+ pudding\nDessert 2: Pfirsichjoghurt\nUpdated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsen\, Linsen\, Paniertes
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-10-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tomatensuppe\n1: Linsen - und vegane Spätzle\nAll-Time
  -Classic tierisch: Hähnchen-Döner - mit Joghurt-Knoblauch-Dip\nLoaded Fr
@@ -161,13 +144,13 @@ DESCRIPTION:Suppe: Tomatensuppe\n1: Linsen - und vegane Spätzle\nAll-Time
  es Hokifilet - mit Limettenschmand und Thymiankartoffeln\nGemüse: Rahmblu
  menkohl\nBeilage 1: Thymiankartoffeln\nBeilage 2: Spätzle\nBeilage 3: Pom
  mes frites\nDessert 1: Vanillejoghurt\nDessert 2: Veganes Früchtemüsli\n
- Updated: 2026-10-28 11:56:38 CET
+ Updated: 2026-10-29 12:16:20 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kichererbsen-Curry\, Schweinegeschnetzeltes
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261028T105638Z
+DTSTAMP:20261029T111620Z
 UID:2026-11-11-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Linsensuppe\n1: Kichererbsen-Curry mit Duftreis\nAll-Ti
  me-Classic tierisch: Hähnchen-Döner - mit Joghurt-Knoblauch-Dip\nLoaded 
@@ -176,6 +159,22 @@ DESCRIPTION:Suppe: Linsensuppe\n1: Kichererbsen-Curry mit Duftreis\nAll-Ti
   Bratensauce und Mozzarella\n4: Schweinegeschnetzeltes mit Champignons - m
  it Kartoffelrösti\nGemüse: Buntes Gemüse\nBeilage 1: Pommes frites\nBei
  lage 2: Duftreis\nDessert 1: Mandarinen Mascarpone Creme\nDessert 2: Vegan
- er Heidelbeerquark\nUpdated: 2026-10-28 11:56:38 CET
+ er Heidelbeerquark\nUpdated: 2026-10-29 12:16:20 CET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kartoffel-Gemüse-Pfanne\, Veganes Schnitzel\, Paniertes
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261029T111620Z
+UID:2026-11-12-mensa-stuttgart-vaihingen@maxmanager.xyz
+DESCRIPTION:Suppe: Indische Curry suppe\n1: Kartoffel-Gemüse-Pfanne\nAll-
+ Time-Classic tierisch: Hähnchen-Döner - mit Joghurt-Knoblauch-Dip\nLoade
+ d Fries: Loaded Fries mit Bratensauce und Mozzarella\nLoaded Fries: Loaded
+  Fries mit Sojabolognese\nLoaded Fries: Loaded Fries mit Hähnchenstreifen
+ \,Sweet Chili und Mango Salsa\n2: Veganes Schnitzel - mit Bratensauce und 
+ Pommes frites\n4: Paniertes Schweineschnitzel - mit Bratensauce und Pommes
+  frites\nGemüse: Fingermöhren\nBeilage 1: Pommes frites\nDessert 1: Vega
+ nes Mousse au chocolat\nDessert 2: Himbeerquark\nUpdated: 2026-10-29 12:16
+ :20 CET
 END:VEVENT
 END:VCALENDAR
