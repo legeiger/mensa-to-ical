@@ -2,26 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mensa Stuttgart Vaihingen//
 BEGIN:VEVENT
-SUMMARY:Tomaten-Spaghetti\, Paniertes\, Schweinegeschnetzeltes
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-DTSTAMP:20261113T125013Z
-UID:2026-11-13-mensa-stuttgart-vaihingen@maxmanager.xyz
-DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Tomaten-Spaghetti mit Erbsencreme 
- und Chiliflocken\nAll-Time-Classic tierisch: Hähnchen-Döner - mit Joghur
- t-Knoblauch-Dip\nLoaded Fries: Loaded Fries mit Bratensauce und Mozzarella
- \nLoaded Fries: Loaded Fries mit Hähnchenstreifen\,Sweet Chili und Mango 
- Salsa\nLoaded Fries: Loaded Fries mit Sojabolognese\n3: Paniertes Seelachs
- filet - mit Remouladensauce und Kartoffelsalat\n4: Schweinegeschnetzeltes 
- mit Champignons - und Spätzle\nGemüse: Kokos-Schlemmergemüse\nBeilage 1
- : Pommes frites\nBeilage 2: Kartoffelsalat\nDessert 1: Creme mit Tiramisu-
- Geschmack\nDessert 2: Karamellpudding\nUpdated: 2026-11-13 13:50:13 CET
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grünkernpfanne\, Halbes Grillhähnchen
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-16-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Pilzcremesuppe\n1: Grünkernpfanne mit Blumenkohl-Bohne
  ngemüse - und Möhren-Chili-Dip\nAll-Time-Classic vegan: Veganes Gyros - 
@@ -31,13 +15,13 @@ DESCRIPTION:Suppe: Pilzcremesuppe\n1: Grünkernpfanne mit Blumenkohl-Bohne
  lsa\n3: Halbes Grillhähnchen - mit Sweet Chili Dip und Pommes frites\nGem
  üse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeilage 2: Paprikareis\nDe
  ssert 1: Aprikosenjoghurt\nDessert 2: Veganer Heidelbeerquark\nUpdated: 20
- 26-11-13 13:50:13 CET
+ 26-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linsencurry\, Teigtaschen
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-17-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Linsencurry mit Kürbis und Duftreis
  \nAll-Time-Classic vegan: Veganes Gyros - mit veganem Tzatziki\, Paprikare
@@ -46,13 +30,13 @@ DESCRIPTION:Suppe: Kartoffelsuppe\n1: Linsencurry mit Kürbis und Duftreis
  nLoaded Fries: Loaded Fries mit Sojabolognese\n2: Teigtaschen mit Kartoffe
  l-Quarkfüllung - und Sour-Cream Dip\nGemüse: Buntes Gemüse\nBeilage 1: 
  Pommes frites\nBeilage 2: Paprikareis\nDessert 1: Exotischer Obstsalat\nDe
- ssert 2: Sahneschokopudding\nUpdated: 2026-11-13 13:50:13 CET
+ ssert 2: Sahneschokopudding\nUpdated: 2026-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkornspaghetti\, Cordon bleu
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-18-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Vollkornspaghetti mit Sojabolognese\
  nAll-Time-Classic vegan: Veganes Gyros - mit veganem Tzatziki\, Paprikarei
@@ -61,14 +45,14 @@ DESCRIPTION:Suppe: Kartoffelsuppe\n1: Vollkornspaghetti mit Sojabolognese\
   Fries mit Erbsen Guacamole und Tomatensalsa\n4: Cordon bleu vom Schwein -
   mit Bratensauce und Pommes frites\nGemüse: Kaisergemüse\nBeilage 1: Pom
  mes frites\nBeilage 2: Paprikareis\nBeilage 3: Duftreis\nDessert 1: Käses
- ahne Creme\nDessert 2: Vegane Himbeercreme\nUpdated: 2026-11-13 13:50:13 C
+ ahne Creme\nDessert 2: Vegane Himbeercreme\nUpdated: 2026-11-14 12:54:46 C
  ET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vollkorn Penne\, Schupfnudel-Pfanne
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-19-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Indische Currysuppe\n1: Vollkorn Penne mit mediterranem
   Gemüse\nAll-Time-Classic vegan: Veganes Gyros - mit veganem Tzatziki\, P
@@ -78,13 +62,13 @@ DESCRIPTION:Suppe: Indische Currysuppe\n1: Vollkorn Penne mit mediterranem
  ne mit Zucchini\, Paprika und Chilidip\nGemüse: Bohnen-Paprika-Gemüse\nB
  eilage 1: Paprikareis\nBeilage 2: Pommes frites\nDessert 1: Kokosmilchreis
   mit Mango\nDessert 2: Rote Grütze - mit Dessertsauce Vanille\nUpdated: 2
- 026-11-13 13:50:13 CET
+ 026-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gemüse-Knusperfrikadelle\, Backfisch\, Begrenztes\, Begrenztes
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-20-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Mediterrane Gemüsesuppe\n1: Gemüse-Knusperfrikadelle 
  - mit veganer Kräutercremesauce und Reis\nAll-Time-Classic vegan: Veganes
@@ -96,13 +80,13 @@ DESCRIPTION:Suppe: Mediterrane Gemüsesuppe\n1: Gemüse-Knusperfrikadelle
  6: Begrenztes Angebot im OG: - Ramen mit Mienudeln und Tofu\nGemüse: Broc
  coli\nBeilage 1: Kartoffelsalat\nBeilage 2: Paprikareis\nBeilage 3: Pommes
   frites\nDessert 1: Ananasquark\nDessert 2: Nuss-Nougat-Pudding\nUpdated: 
- 2026-11-13 13:50:13 CET
+ 2026-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penne mit\, Köttbullar
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-23-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kartoffelsuppe\n1: Penne mit Champignons und Cocktailto
  maten\nAll-Time-Classic vegan: Veganes Schnitzel - mit Bratensauce und veg
@@ -113,13 +97,13 @@ DESCRIPTION:Suppe: Kartoffelsuppe\n1: Penne mit Champignons und Cocktailto
  ce \,Preiselbeeren und Salzkartoffeln\nGemüse: Karotten-Erbsen-Gemüse\nB
  eilage 1: Pommes frites\nBeilage 2: Spätzle\nBeilage 3: Salzkartoffeln\nD
  essert 1: Kirschjoghurt\nDessert 2: Pudding mit Vanille-Geschmack\nUpdated
- : 2026-11-13 13:50:13 CET
+ : 2026-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vegane Paella\, Sojageschnetzeltes
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-24-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Tomatensuppe\n1: Vegane Paella\nAktionsessen vegan: Akt
  ionsessen - Vollkorn Penne mit Ofen-Kürbis-Süßkartoffelsauce und Nusscr
@@ -130,13 +114,13 @@ DESCRIPTION:Suppe: Tomatensuppe\n1: Vegane Paella\nAktionsessen vegan: Akt
  ded Fries mit Hähnchendöner und Sauerrahm\n2: Sojageschnetzeltes Szechua
  n - mit Mienudeln\nGemüse: Rahmblumenkohl\nBeilage 1: Pommes frites\nBeil
  age 2: Spätzle\nDessert 1: Mousse mit Limone-Joghurt-Geschmack\nDessert 2
- : Veganer Himbeerquark\nUpdated: 2026-11-13 13:50:13 CET
+ : Veganer Himbeerquark\nUpdated: 2026-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kürbis-Karotten-Gnocchi-Ragout\, Hähnchen-Nuggets
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-25-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Blumenkohlsuppe\n1: Kürbis-Karotten-Gnocchi-Ragout\nAl
  l-Time-Classic vegan: Veganes Schnitzel - mit Bratensauce und vegane Spät
@@ -146,13 +130,13 @@ DESCRIPTION:Suppe: Blumenkohlsuppe\n1: Kürbis-Karotten-Gnocchi-Ragout\nAl
  ies: Loaded Fries mit Sojabolognese\n4: Hähnchen-Nuggets - mit Curry Dip 
  und Pommes frites\nGemüse: Zucchini-Paprika-Gemüse\nBeilage 1: Pommes fr
  ites\nBeilage 2: Spätzle\nDessert 1: Veganer Ananas-Kokos-Quark\nDessert 
- 2: Früchtemüsli\nUpdated: 2026-11-13 13:50:13 CET
+ 2: Früchtemüsli\nUpdated: 2026-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schupfnudel-Sauerkraut-Pfanne\, Schweinebraten
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-26-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Kürbissuppe\n1: Schupfnudel-Sauerkraut-Pfanne\nAll-Tim
  e-Classic vegan: Veganes Schnitzel - mit Bratensauce und vegane Spätzle\n
@@ -162,13 +146,13 @@ DESCRIPTION:Suppe: Kürbissuppe\n1: Schupfnudel-Sauerkraut-Pfanne\nAll-Tim
   Hähnchendöner und Sauerrahm\n3: Schweinebraten - mit Rahmsauce und Spä
  tzle\nGemüse: Grüne Bohnen\nBeilage 1: Pommes frites\nBeilage 2: Spätzl
  e\nDessert 1: Veganer Grießpudding mit Pfirsich\nDessert 2: Waldbeerenqua
- rk\nUpdated: 2026-11-13 13:50:13 CET
+ rk\nUpdated: 2026-11-14 12:54:46 CET
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reispfanne\, Paniertes
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261113T125013Z
+DTSTAMP:20261114T115446Z
 UID:2026-11-27-mensa-stuttgart-vaihingen@maxmanager.xyz
 DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Reispfanne mit Naturreis und Weiß
  kraut-\,Paprikagemüse\nAll-Time-Classic vegan: Veganes Schnitzel - mit Br
@@ -179,6 +163,6 @@ DESCRIPTION:Suppe: Gemüserahmsuppe\n1: Reispfanne mit Naturreis und Weiß
  s Seelachsfilet - mit Remouladensauce und Kartoffelsalat\nGemüse: Kokos-S
  chlemmergemüse\nBeilage 1: Kartoffelsalat\nBeilage 2: Pommes frites\nBeil
  age 3: Spätzle\nDessert 1: Früchtequark\nDessert 2: Mousse mit Heidelbee
- r-Geschmack\nUpdated: 2026-11-13 13:50:13 CET
+ r-Geschmack\nUpdated: 2026-11-14 12:54:46 CET
 END:VEVENT
 END:VCALENDAR
